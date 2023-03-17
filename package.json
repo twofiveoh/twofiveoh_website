@@ -1,0 +1,26 @@
+{
+  "name": "twofiveoh_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "debug": "DEBUG=* npx @11ty/eleventy",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twofiveoh/twofiveoh_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twofiveoh/twofiveoh_website/issues"
+  },
+  "homepage": "https://github.com/twofiveoh/twofiveoh_website#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
