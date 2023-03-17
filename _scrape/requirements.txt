@@ -1,0 +1,5 @@
+cinemagoer==2022.12.27
+greenlet==2.0.2
+lxml==4.9.2
+SQLAlchemy==2.0.6
+typing_extensions==4.5.0

@@ -1,3 +1,7 @@
 # dependencies installed by npm
 
 node_modules
+_scrape/env/[Ii]nclude
+_scrape/env/[Ll]ib
+_scrape/env/[Ss]cripts
+_scrape/env/pyvenv.cfg
