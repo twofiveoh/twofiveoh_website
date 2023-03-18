@@ -4,8 +4,8 @@ epindex: 003
 tfoindex: 248
 imdbid: 2015381
 coverurl: https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX202_CR0,0,202,300_.jpg
-title: Guardians of the Galaxy
-releasedate: 2014
+title: "Guardians of the Galaxy
+"releasedate: 2014
 rating: 8.0
 ---
 

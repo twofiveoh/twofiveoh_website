@@ -4,8 +4,8 @@ epindex: 006
 tfoindex: 245
 imdbid: 87884
 coverurl: https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_SX202_CR0,0,202,300_.jpg
-title: Paris, Texas
-releasedate: 1985
+title: "Paris, Texas
+"releasedate: 1985
 rating: 8.1
 ---
 

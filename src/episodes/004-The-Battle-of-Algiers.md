@@ -4,8 +4,8 @@ epindex: 004
 tfoindex: 247
 imdbid: 58946
 coverurl: https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: The Battle of Algiers
-releasedate: 1966
+title: "The Battle of Algiers
+"releasedate: 1966
 rating: 8.1
 ---
 

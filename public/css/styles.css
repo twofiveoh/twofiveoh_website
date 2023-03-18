@@ -52,6 +52,13 @@ template {display: none;}
     --text-light: #585858;
     --border: #d8dae1;
     --accent: #0d47a1;
+
+    --poster-height: 225px;
+    --poster-width: 150px;
+}
+
+html {
+    font-family: var(--sans-font);
 }
 
 body {
@@ -59,6 +66,7 @@ body {
 }
 
 .episode-container {
+    padding: 15px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -67,10 +75,38 @@ body {
 }
 
 .poster {
-    width: 150px;
-    height: 225px;
-    background-color: var(--accent-bg);
-    overflow: hidden;
+    width: var(--poster-width);
+    height: var(--poster-height);
+    /* background-color: var(--accent-bg); */
     background-size: cover;
     border-radius: 15px;
+}
+
+.poster-image {
+    opacity: 0;
+    transition: all 0.5s ease;
+    width: var(--poster-width);
+    height: var(--poster-height);
+    position: absolute;
+    z-index: 1;
+    height: inherit;
+    width: inherit;
+    border-radius: 15px;
+}
+
+.poster-contents {
+    width: var(--poster-width);
+    height: var(--poster-height);
+    position: absolute;
+    overflow: hidden;
+    border-radius: 15px;
+    z-index: 2;
+}
+
+.poster .poster-contents {
+    display: none;
+}
+
+.poster:hover .poster-contents {
+    display: block;
 }

@@ -4,8 +4,8 @@ epindex: 009
 tfoindex: 242
 imdbid: 64115
 coverurl: https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SY300_CR0,0,202,300_.jpg
-title: Butch Cassidy and the Sundance Kid
-releasedate: 1970
+title: "Butch Cassidy and the Sundance Kid
+"releasedate: 1970
 rating: 8.0
 ---
 

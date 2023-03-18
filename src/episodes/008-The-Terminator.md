@@ -4,8 +4,8 @@ epindex: 008
 tfoindex: 243
 imdbid: 88247
 coverurl: https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: The Terminator
-releasedate: 1984
+title: "The Terminator
+"releasedate: 1984
 rating: 8.1
 ---
 
