@@ -121,7 +121,7 @@ for ep in list:
     out += f'tfoindex: {e["tfoindex"]}\n'
     out += f'imdbid: {e["imdbid"]}\n'
     out += f'coverurl: {e["coverurl"]}\n'
-    out += f'title: {e["title"]}\n'
+    out += f'title: "{e["title"]}\n"'
     out += f'releasedate: {e["releasedate"]}\n'
     out += f'rating: {e["rating"]}\n'
     out += f'---\n\n'
