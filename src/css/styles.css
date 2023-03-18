@@ -50,20 +50,22 @@ template {display: none;}
     --accent-bg: #ddd;
     --dark: #333;
 
-    --accent: #007bff;
-    --spotify: #1db954;    
+    --primary: #007bff;
+    --primary-hover: #0069d9;
+    --spotify: #1db954;  
+    --spotify-hover: #15853c;  
+    --imdb: #f5c500;
+    --imdb-hover: #c29b00;
 
     --poster-height: 300px;
     --poster-width: 200px;
     --logo-size: 100px;
 }
 
-html {
-    font-family: var(--sans-font);
-}
-
 body {
     background-color: var(--dark);
+    font-family: var(--sans-font);
+    user-select: none;
 }
 
 .logo{
@@ -100,7 +102,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 15px;
+    gap: 25px;
 }
 
 .poster {
@@ -112,13 +114,9 @@ body {
     transition: all 0.1s ease;
 }
 
-.poster:hover {
-    margin-top: -5px;
-}
-
 .poster-image {
     opacity: 0;
-    transition: all 0.05s ease;
+    transition: all 0.5s ease;
     width: var(--poster-width);
     height: var(--poster-height);
     position: absolute;
@@ -131,7 +129,7 @@ body {
 
 .poster:hover .poster-image {
     filter: grayscale(75%);
-    transition: all 0.05s ease;
+    transition: all 0.5s ease;
 }
 
 .poster-contents {
@@ -148,6 +146,36 @@ body {
     box-sizing: border-box;
     background-color: rgba(71,71,71,0.85);
     opacity: 0;
+    gap: 5px;
+    transition: all 0.1s ease;
+}
+
+.poster-text {
+    flex-shrink: 1;
+    color: var(--accent-bg);
+}
+
+.poster-text span {
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+.poster-text p {
+    margin: 0;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    overflow: hidden;
+}
+
+.index-no {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.title {
+    font-weight: bold;
+    font-size: larger;
 }
 
 .poster:hover .poster-contents {
@@ -160,20 +188,47 @@ body {
     gap: 5px;
 }
 
+.buttons a {
+    height: 1lh;
+}
+
+.buttons img {
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    padding: 0;
+    vertical-align: baseline;
+}
+
 .poster-button {
     /* width: inherit; */
     background-color: var(--accent-bg);
     color: white;
     padding: 6px 12px;
     border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 3px;
+    transition: all 0.25s ease;
+    cursor: pointer;
+    text-decoration: none;
 }
 
-.more-button {
-    background-color: var(--accent);
+.more-button, .more-button:active {
+    background-color: var(--primary);
 }
 
-.listen-button {
+.more-button:hover {
+    background-color: var(--primary-hover);
+}
+
+.listen-button, .listen-button:active {
     background-color: var(--spotify);
+}
+
+.listen-button:hover {
+    background-color: var(--spotify-hover);
 }
 
 /* .aurora-outer {

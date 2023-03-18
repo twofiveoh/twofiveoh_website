@@ -15,16 +15,21 @@ layout: base.njk
         <div class="episode-container">
           {%- for ep in collections.episode -%}
             <div class="poster">
-              <img class="poster-image" onload="this.style.opacity=1" src="{{ep.data.coverurl}}"/>
+              <img class="poster-image" onload="this.style.opacity=1" src="{{ ep.data.coverurl }}"/>
               <div class="poster-contents">
-                <!--{# {{ep.content}} #}-->
-                <div class="poster-text">asdf</div>
+                <div class="poster-text">
+                  <span class="index-no">{{ ep.data.tfoindex }}</span></br>
+                  <span class="title">{{ ep.data.title }}</span></br>
+                  <span class="description">{{ ep.content }}</span>
+                </div>
                 <div class="buttons">
-                  <a class="poster-button more-button">
-                    more
-                  </a>
-                  <a class="poster-button listen-button">
-                    listen
+                  <!--<a class="poster-button more-button">
+                    <img src="/img/info.svg"> 
+                    <span>More</span>
+                  </a>-->
+                  <a href="{{ ep.data.spotifyurl }}" class="poster-button listen-button">
+                    <img src="/img/spotify.svg"> 
+                    <span>Listen</span>
                   </a>
                 </div>
               </div>

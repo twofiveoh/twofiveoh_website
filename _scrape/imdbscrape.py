@@ -31,7 +31,8 @@ with open(listloc, newline='') as listfile:
                 "epindex": epindex,
                 "listindex": row[1].lower(),
                 "imdbid": row[2],
-                "type": row[3].lower()
+                "spotifyid": row[3],
+                "type": row[4].lower(),
             }
         )
 
@@ -47,11 +48,12 @@ with open(extrasloc, newline='') as extrasfile:
 
         extras[str(row[0])] = {
             "listindex": row[0].lower(),
-            "coverurl": row[1],
-            "title": row[2],
-            "releasedate": row[3],
-            "rating": row[4],
-            "plotoutline": row[5]
+            "spotifyid": row[1],
+            "coverurl": row[2],
+            "title": row[3],
+            "releasedate": row[4],
+            "rating": row[5],
+            "plotoutline": row[6],
         }
 
         rowindex += 1
@@ -83,6 +85,7 @@ for ep in list:
             "epindex": ep["epindex"],
             "tfoindex": ep["listindex"],
             "imdbid": ep["imdbid"],
+            "spotifyurl": "https://open.spotify.com/episode/" + ep["spotifyid"] if ep["spotifyid"] else "https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM",
             "coverurl": coverurl,
             "title": movie.get('localized title'),
             "releasedate": releasedate,
@@ -106,6 +109,7 @@ for ep in list:
             "epindex": ep["epindex"],
             "tfoindex": ep["listindex"],
             "imdbid": "",
+            "spotifyurl": "https://open.spotify.com/episode/" + ep["spotifyid"] if ep["spotifyid"] else "https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM",
             # i am truly a terrible fucking programmer
             "coverurl": extras[ep["listindex"]]["coverurl"],
             "title": extras[ep["listindex"]]["title"],
@@ -121,7 +125,8 @@ for ep in list:
     out += f'tfoindex: {e["tfoindex"]}\n'
     out += f'imdbid: {e["imdbid"]}\n'
     out += f'coverurl: {e["coverurl"]}\n'
-    out += f'title: "{e["title"]}\n"'
+    out += f'spotifyurl: {e["spotifyurl"]}\n'
+    out += f'title: "{e["title"]}"\n'
     out += f'releasedate: {e["releasedate"]}\n'
     out += f'rating: {e["rating"]}\n'
     out += f'---\n\n'
