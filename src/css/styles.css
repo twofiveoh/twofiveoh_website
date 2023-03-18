@@ -48,6 +48,7 @@ template {display: none;}
     /* Default (light) theme */
     --bg: #474747;
     --accent-bg: #ddd;
+    --dark: #333;
     --text: #333;
     --text-light: #585858;
     --border: #d8dae1;
@@ -55,6 +56,7 @@ template {display: none;}
 
     --poster-height: 225px;
     --poster-width: 150px;
+    --logo-size: 100px;
 }
 
 html {
@@ -62,7 +64,35 @@ html {
 }
 
 body {
-    background-color: var(--bg);
+    background-color: var(--dark);
+}
+
+.logo{
+    height: var(--logo-size);
+    width: var(--logo-size);
+    position: fixed;
+    left: 25px;
+    top: 25px;
+    z-index: 3;
+    overflow: hidden;
+    margin: -6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    outline: 3px solid var(--dark);
+    outline-offset: -2px;
+    transition: all 0.1s ease;
+}
+
+.logo-image{
+    height: calc(var(--logo-size) + 6px);
+    width: calc(var(--logo-size) + 6px);
+    border-radius: 6px;
+}
+
+.logo:hover {
+    top: 20px;
 }
 
 .episode-container {
