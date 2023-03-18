@@ -48,12 +48,11 @@ with open(extrasloc, newline='') as extrasfile:
 
         extras[str(row[0])] = {
             "listindex": row[0].lower(),
-            "spotifyid": row[1],
-            "coverurl": row[2],
-            "title": row[3],
-            "releasedate": row[4],
-            "rating": row[5],
-            "plotoutline": row[6],
+            "coverurl": row[1],
+            "title": row[2],
+            "releasedate": row[3],
+            "rating": row[4],
+            "plotoutline": row[5],
         }
 
         rowindex += 1
