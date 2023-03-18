@@ -5,23 +5,30 @@ layout: base.njk
 
 <html>
   <head>
-    <style>
-
-    </style>
+    <style></style>
     <title>My New 11ty Homepage on Neocities!</title>
   </head>
   <body>
         <div class="logo">
           <img class="logo-image" src="/img/logo2.png" alt="">
         </div>
-    <div class="episode-container">
-    {%- for ep in collections.episode -%}
-        <div class="poster"> 
-            <img class="poster-image" onload="this.style.opacity=1" src="{{ep.data.coverurl}}"/>
-            <div class="poster-contents">
-                {{ep.content}} 
+        <div class="episode-container">
+          {%- for ep in collections.episode -%}
+            <div class="poster">
+              <img class="poster-image" onload="this.style.opacity=1" src="{{ep.data.coverurl}}"/>
+              <div class="poster-contents">
+                <!--{# {{ep.content}} #}-->
+                <div class="poster-text">asdf</div>
+                <div class="buttons">
+                  <a class="poster-button more-button">
+                    more
+                  </a>
+                  <a class="poster-button listen-button">
+                    listen
+                  </a>
+                </div>
+              </div>
             </div>
-        </div>
-    {%- endfor -%}
-  </body>
-</html>
+          {%- endfor -%}
+    </body>
+  </html>

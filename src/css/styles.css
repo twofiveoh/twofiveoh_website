@@ -110,6 +110,11 @@ body {
     /* background-color: var(--accent-bg); */
     background-size: cover;
     border-radius: 15px;
+    transition: all 0.1s ease;
+}
+
+.poster:hover {
+    margin-top: -5px;
 }
 
 .poster-image {
@@ -131,12 +136,59 @@ body {
     overflow: hidden;
     border-radius: 15px;
     z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: rgba(71,71,71,0.5);
 }
 
 .poster .poster-contents {
-    display: none;
+    opacity: 0;
 }
 
 .poster:hover .poster-contents {
-    display: block;
+    opacity: 1;
 }
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.poster-button {
+    /* width: inherit; */
+    background-color: var(--accent-bg);
+}
+
+/* .aurora-outer {
+    background: linear-gradient(45deg, #474747 0%, #ddd 49%, #333 82%);
+    background-size: 200%;
+    animation: aurora 5s infinite;
+}
+
+.aurora-inner {
+    background: radial-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15));
+    background-size: 200%;
+    animation: aurora 3s infinite;
+}
+
+@keyframes aurora {
+    0% {
+        background-position: left top;
+    }
+    25% {
+        background-position: right top;
+    }
+    50% {
+        background-position: right bottom;
+    }
+    75% {
+        background-position: left bottom;
+    }
+    100% {
+        background-position: left top;
+    }
+} */
