@@ -4,8 +4,9 @@ epindex: 085
 tfoindex: 166
 imdbid: 50212
 coverurl: https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Bridge on the River Kwai
-"releasedate: 1958
+spotifyurl: https://open.spotify.com/episode/2Ks4yMtc3hd4gVxurFE8BR
+title: "The Bridge on the River Kwai"
+releasedate: 1958
 rating: 8.2
 ---
 

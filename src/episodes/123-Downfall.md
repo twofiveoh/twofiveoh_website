@@ -4,8 +4,9 @@ epindex: 123
 tfoindex: 128
 imdbid: 363163
 coverurl: https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_SY300_CR0,0,202,300_.jpg
-title: "Downfall
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/episode/2qkeBpqobxF5uHhrF4uCeL
+title: "Downfall"
+releasedate: 2005
 rating: 8.2
 ---
 

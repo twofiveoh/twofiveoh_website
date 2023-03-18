@@ -4,8 +4,9 @@ epindex: 108
 tfoindex: 143
 imdbid: 120735
 coverurl: https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX202_CR0,0,202,300_.jpg
-title: "Lock, Stock and Two Smoking Barrels
-"releasedate: 1998
+spotifyurl: https://open.spotify.com/episode/4bt2zxcSJWLmG4MVOQ4wkd
+title: "Lock, Stock and Two Smoking Barrels"
+releasedate: 1998
 rating: 8.2
 ---
 

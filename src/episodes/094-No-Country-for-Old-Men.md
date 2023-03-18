@@ -4,8 +4,9 @@ epindex: 094
 tfoindex: 157
 imdbid: 477348
 coverurl: https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SY300_CR0,0,202,300_.jpg
-title: "No Country for Old Men
-"releasedate: 2007
+spotifyurl: https://open.spotify.com/episode/40aEkMiZuz6hWLqYpHTcmc
+title: "No Country for Old Men"
+releasedate: 2007
 rating: 8.2
 ---
 

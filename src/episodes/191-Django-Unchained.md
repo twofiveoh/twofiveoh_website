@@ -4,8 +4,9 @@ epindex: 191
 tfoindex: 60
 imdbid: 1853728
 coverurl: https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Django Unchained
-"releasedate: 2013
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Django Unchained"
+releasedate: 2013
 rating: 8.4
 ---
 

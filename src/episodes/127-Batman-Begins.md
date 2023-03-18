@@ -4,8 +4,9 @@ epindex: 127
 tfoindex: 124
 imdbid: 372784
 coverurl: https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR0,0,202,300_.jpg
-title: "Batman Begins
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/episode/3ks9hH3a0XubmrnYLaQREf
+title: "Batman Begins"
+releasedate: 2005
 rating: 8.2
 ---
 

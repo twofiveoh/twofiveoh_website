@@ -4,8 +4,9 @@ epindex: 192
 tfoindex: 59
 imdbid: 4154796
 coverurl: https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SY300_CR0,0,202,300_.jpg
-title: "Avengers: Endgame
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Avengers: Endgame"
+releasedate: 2019
 rating: 8.4
 ---
 

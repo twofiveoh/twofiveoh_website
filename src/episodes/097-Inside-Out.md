@@ -4,8 +4,9 @@ epindex: 097
 tfoindex: 154
 imdbid: 2096673
 coverurl: https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SY300_CR0,0,202,300_.jpg
-title: "Inside Out
-"releasedate: 2015
+spotifyurl: https://open.spotify.com/episode/1WNExqLnNlbBBr6EfeR2i7
+title: "Inside Out"
+releasedate: 2015
 rating: 8.1
 ---
 

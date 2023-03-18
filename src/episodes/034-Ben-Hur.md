@@ -4,8 +4,9 @@ epindex: 034
 tfoindex: 217
 imdbid: 52618
 coverurl: https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-title: "Ben-Hur
-"releasedate: 1960
+spotifyurl: https://open.spotify.com/episode/1khOmmSZYEUKYh6YkUEJS5
+title: "Ben-Hur"
+releasedate: 1960
 rating: 8.1
 ---
 

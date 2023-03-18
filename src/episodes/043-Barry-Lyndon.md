@@ -4,8 +4,9 @@ epindex: 043
 tfoindex: 208
 imdbid: 72684
 coverurl: https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "Barry Lyndon
-"releasedate: 1975
+spotifyurl: https://open.spotify.com/episode/3TjJcTbhOfxIAJ0EQSXLYo
+title: "Barry Lyndon"
+releasedate: 1975
 rating: 8.1
 ---
 

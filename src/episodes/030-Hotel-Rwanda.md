@@ -4,8 +4,9 @@ epindex: 030
 tfoindex: 221
 imdbid: 395169
 coverurl: https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-title: "Hotel Rwanda
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/episode/5193BSURIQmrevx5qAvMRH
+title: "Hotel Rwanda"
+releasedate: 2005
 rating: 8.1
 ---
 

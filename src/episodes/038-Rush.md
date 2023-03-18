@@ -4,8 +4,9 @@ epindex: 038
 tfoindex: 213
 imdbid: 1979320
 coverurl: https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg
-title: "Rush
-"releasedate: 2013
+spotifyurl: https://open.spotify.com/episode/7jSiMhSnVzWjS8sagf05aj
+title: "Rush"
+releasedate: 2013
 rating: 8.1
 ---
 

@@ -4,8 +4,9 @@ epindex: 228
 tfoindex: 23
 imdbid: 102926
 coverurl: https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Silence of the Lambs
-"releasedate: 1991
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Silence of the Lambs"
+releasedate: 1991
 rating: 8.6
 ---
 

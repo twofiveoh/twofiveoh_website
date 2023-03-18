@@ -4,8 +4,9 @@ epindex: 118
 tfoindex: 133
 imdbid: 57115
 coverurl: https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Great Escape
-"releasedate: 1963
+spotifyurl: https://open.spotify.com/episode/79wtvxkFlmcpqvtGUwjVxP
+title: "The Great Escape"
+releasedate: 1963
 rating: 8.2
 ---
 

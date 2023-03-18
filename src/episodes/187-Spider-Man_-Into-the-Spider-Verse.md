@@ -4,8 +4,9 @@ epindex: 187
 tfoindex: 64
 imdbid: 4633694
 coverurl: https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SY300_CR0,0,202,300_.jpg
-title: "Spider-Man: Into the Spider-Verse
-"releasedate: 2018
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Spider-Man: Into the Spider-Verse"
+releasedate: 2018
 rating: 8.4
 ---
 

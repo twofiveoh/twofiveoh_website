@@ -4,8 +4,9 @@ epindex: 222
 tfoindex: 29
 imdbid: 6751668
 coverurl: https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SY300_CR0,0,202,300_.jpg
-title: "Parasite
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Parasite"
+releasedate: 2019
 rating: 8.5
 ---
 

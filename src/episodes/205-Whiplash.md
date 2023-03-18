@@ -4,8 +4,9 @@ epindex: 205
 tfoindex: 46
 imdbid: 2582802
 coverurl: https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-title: "Whiplash
-"releasedate: 2014
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Whiplash"
+releasedate: 2014
 rating: 8.5
 ---
 

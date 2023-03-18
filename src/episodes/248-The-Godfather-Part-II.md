@@ -4,8 +4,9 @@ epindex: 248
 tfoindex: 3
 imdbid: 71562
 coverurl: https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR2,0,202,300_.jpg
-title: "The Godfather Part II
-"releasedate: 1975
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Godfather Part II"
+releasedate: 1975
 rating: 9.0
 ---
 

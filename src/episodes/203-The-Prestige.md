@@ -4,8 +4,9 @@ epindex: 203
 tfoindex: 48
 imdbid: 482571
 coverurl: https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SY300_CR0,0,202,300_.jpg
-title: "The Prestige
-"releasedate: 2006
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Prestige"
+releasedate: 2006
 rating: 8.5
 ---
 

@@ -4,8 +4,9 @@ epindex: 095
 tfoindex: 156
 imdbid: 1291584
 coverurl: https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_SX202_CR0,0,202,300_.jpg
-title: "Warrior
-"releasedate: 2011
+spotifyurl: https://open.spotify.com/episode/5HIFy2Y2GB6UzwgNDOn9Hu
+title: "Warrior"
+releasedate: 2011
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 227
 tfoindex: 24
 imdbid: 38650
 coverurl: https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SY300_CR1,0,202,300_.jpg
-title: "It's a Wonderful Life
-"releasedate: 1947
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "It's a Wonderful Life"
+releasedate: 1947
 rating: 8.6
 ---
 

@@ -4,8 +4,9 @@ epindex: 084
 tfoindex: 167
 imdbid: 1856101
 coverurl: https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SY300_CR0,0,202,300_.jpg
-title: "Blade Runner 2049
-"releasedate: 2017
+spotifyurl: https://open.spotify.com/episode/2q8pQIPwXNPsmnmkEOjzIS
+title: "Blade Runner 2049"
+releasedate: 2017
 rating: 8.0
 ---
 

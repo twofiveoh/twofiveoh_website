@@ -4,8 +4,9 @@ epindex: 185
 tfoindex: 66
 imdbid: 43014
 coverurl: https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX202_CR0,0,202,300_.jpg
-title: "Sunset Blvd.
-"releasedate: 1950
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Sunset Blvd."
+releasedate: 1950
 rating: 8.4
 ---
 

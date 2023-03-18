@@ -4,8 +4,9 @@ epindex: 070
 tfoindex: 181
 imdbid: 120382
 coverurl: https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Truman Show
-"releasedate: 1998
+spotifyurl: https://open.spotify.com/episode/0oGDQeRYDrR6zhJ2ePk43x
+title: "The Truman Show"
+releasedate: 1998
 rating: 8.2
 ---
 

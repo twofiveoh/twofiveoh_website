@@ -4,8 +4,9 @@ epindex: 167
 tfoindex: 84
 imdbid: 105236
 coverurl: https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg
-title: "Reservoir Dogs
-"releasedate: 1993
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Reservoir Dogs"
+releasedate: 1993
 rating: 8.3
 ---
 

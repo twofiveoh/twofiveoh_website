@@ -4,8 +4,9 @@ epindex: 223
 tfoindex: 28
 imdbid: 245429
 coverurl: https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-title: "Spirited Away
-"releasedate: 2002
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Spirited Away"
+releasedate: 2002
 rating: 8.6
 ---
 

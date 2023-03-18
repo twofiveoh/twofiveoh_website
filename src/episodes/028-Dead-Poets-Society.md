@@ -4,8 +4,9 @@ epindex: 028
 tfoindex: 223
 imdbid: 97165
 coverurl: https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR0,0,202,300_.jpg
-title: "Dead Poets Society
-"releasedate: 1989
+spotifyurl: https://open.spotify.com/episode/0GFbqA8C9G2s0o8G0rCSnD
+title: "Dead Poets Society"
+releasedate: 1989
 rating: 8.1
 ---
 

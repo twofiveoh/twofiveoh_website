@@ -4,8 +4,9 @@ epindex: 220
 tfoindex: 31
 imdbid: 816692
 coverurl: https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-title: "Interstellar
-"releasedate: 2014
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Interstellar"
+releasedate: 2014
 rating: 8.6
 ---
 

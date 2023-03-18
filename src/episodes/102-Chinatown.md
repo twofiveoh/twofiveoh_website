@@ -4,8 +4,9 @@ epindex: 102
 tfoindex: 149
 imdbid: 71315
 coverurl: https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "Chinatown
-"releasedate: 1975
+spotifyurl: https://open.spotify.com/episode/1YXJkzMwmy2Z9Z7YZOQkSf
+title: "Chinatown"
+releasedate: 1975
 rating: 8.2
 ---
 

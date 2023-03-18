@@ -4,8 +4,9 @@ epindex: 172
 tfoindex: 79
 imdbid: 1187043
 coverurl: https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR1,0,202,300_.jpg
-title: "3 Idiots
-"releasedate: 2009
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "3 Idiots"
+releasedate: 2009
 rating: 8.4
 ---
 

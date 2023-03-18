@@ -4,8 +4,9 @@ epindex: 130
 tfoindex: 121
 imdbid: 113277
 coverurl: https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR1,0,202,300_.jpg
-title: "Heat
-"releasedate: 1996
+spotifyurl: https://open.spotify.com/episode/1sqRYU44ScHTdbDI6l0by8
+title: "Heat"
+releasedate: 1996
 rating: 8.3
 ---
 

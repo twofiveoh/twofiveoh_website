@@ -4,8 +4,9 @@ epindex: 064
 tfoindex: 187
 imdbid: 2267998
 coverurl: https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SY300_CR0,0,202,300_.jpg
-title: "Gone Girl
-"releasedate: 2014
+spotifyurl: https://open.spotify.com/episode/7oTKBeme4RtDyXM54Z1ZRh
+title: "Gone Girl"
+releasedate: 2014
 rating: 8.1
 ---
 

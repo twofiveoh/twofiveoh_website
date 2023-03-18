@@ -5,15 +5,13 @@ layout: base.njk
 
 <html>
   <head>
-    <style></style>
-    <title>My New 11ty Homepage on Neocities!</title>
   </head>
   <body>
         <div class="logo">
           <img class="logo-image" src="/img/logo2.png" alt="">
         </div>
         <div class="episode-container">
-          {%- for ep in collections.episode -%}
+          {%- for ep in collections.episodesorted -%}
             <div class="poster">
               <img class="poster-image" onload="this.style.opacity=1" src="{{ ep.data.coverurl }}"/>
               <div class="poster-contents">

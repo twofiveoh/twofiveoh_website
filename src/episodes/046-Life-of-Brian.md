@@ -4,8 +4,9 @@ epindex: 046
 tfoindex: 205
 imdbid: 79470
 coverurl: https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "Life of Brian
-"releasedate: 1979
+spotifyurl: https://open.spotify.com/episode/7xT0aRwn3UlNmpSUlOkfQK
+title: "Life of Brian"
+releasedate: 1979
 rating: 8.0
 ---
 

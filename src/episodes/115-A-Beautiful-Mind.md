@@ -4,8 +4,9 @@ epindex: 115
 tfoindex: 136
 imdbid: 268978
 coverurl: https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_SX202_.jpg
-title: "A Beautiful Mind
-"releasedate: 2002
+spotifyurl: https://open.spotify.com/episode/5knMMMHBIZzEh4wphgt03g
+title: "A Beautiful Mind"
+releasedate: 2002
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 189
 tfoindex: 62
 imdbid: 81505
 coverurl: https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Shining
-"releasedate: 1980
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Shining"
+releasedate: 1980
 rating: 8.4
 ---
 

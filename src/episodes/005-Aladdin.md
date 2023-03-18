@@ -4,8 +4,9 @@ epindex: 005
 tfoindex: 246
 imdbid: 103639
 coverurl: https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY300_CR0,0,202,300_.jpg
-title: "Aladdin
-"releasedate: 1993
+spotifyurl: https://open.spotify.com/episode/5mKx6nxwUPFWxd4lzWzcPB
+title: "Aladdin"
+releasedate: 1993
 rating: 8.0
 ---
 

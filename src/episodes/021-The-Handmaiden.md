@@ -4,8 +4,9 @@ epindex: 021
 tfoindex: 230
 imdbid: 4016934
 coverurl: https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR1,0,202,300_.jpg
-title: "The Handmaiden
-"releasedate: 2016
+spotifyurl: https://open.spotify.com/episode/6wGfFsgXO00NdNxLGN6Lx2
+title: "The Handmaiden"
+releasedate: 2016
 rating: 8.1
 ---
 

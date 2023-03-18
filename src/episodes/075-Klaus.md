@@ -4,8 +4,9 @@ epindex: 075
 tfoindex: 176
 imdbid: 4729430
 coverurl: https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Klaus
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/episode/7bv1G4v14AE2KnbN1Vo1MD
+title: "Klaus"
+releasedate: 2019
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 023
 tfoindex: 228
 imdbid: 43338
 coverurl: https://m.media-amazon.com/images/M/MV5BNDUzZjlhZTYtN2E5MS00ODQ3LWI1ZjgtNzdiZmI0NTZiZTljXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX202_CR0,0,202,300_.jpg
-title: "Ace in the Hole
-"releasedate: 1951
+spotifyurl: https://open.spotify.com/episode/3Yy2L6igDB8EN8yOd96IST
+title: "Ace in the Hole"
+releasedate: 1951
 rating: 8.1
 ---
 

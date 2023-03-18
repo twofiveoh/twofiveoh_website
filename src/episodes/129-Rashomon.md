@@ -4,8 +4,9 @@ epindex: 129
 tfoindex: 122
 imdbid: 42876
 coverurl: https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_SX202_CR0,0,202,300_.jpg
-title: "Rashomon
-"releasedate: 1950
+spotifyurl: https://open.spotify.com/episode/5maHA3x1FKkFbSCXs5kLT8
+title: "Rashomon"
+releasedate: 1950
 rating: 8.2
 ---
 

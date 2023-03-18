@@ -4,8 +4,9 @@ epindex: 221
 tfoindex: 30
 imdbid: 120689
 coverurl: https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SY300_CR0,0,202,300_.jpg
-title: "The Green Mile
-"releasedate: 2000
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Green Mile"
+releasedate: 2000
 rating: 8.6
 ---
 

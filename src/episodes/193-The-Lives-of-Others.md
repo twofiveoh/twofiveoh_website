@@ -4,8 +4,9 @@ epindex: 193
 tfoindex: 58
 imdbid: 405094
 coverurl: https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Lives of Others
-"releasedate: 2007
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Lives of Others"
+releasedate: 2007
 rating: 8.4
 ---
 

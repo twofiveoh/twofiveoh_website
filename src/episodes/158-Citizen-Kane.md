@@ -4,8 +4,9 @@ epindex: 158
 tfoindex: 93
 imdbid: 33467
 coverurl: https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: "Citizen Kane
-"releasedate: 1941
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Citizen Kane"
+releasedate: 1941
 rating: 8.3
 ---
 

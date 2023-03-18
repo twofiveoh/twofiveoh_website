@@ -4,8 +4,9 @@ epindex: 093
 tfoindex: 158
 imdbid: 117951
 coverurl: https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg
-title: "Trainspotting
-"releasedate: 1996
+spotifyurl: https://open.spotify.com/episode/3YMjj9UnZuSDGiI9jUk3pN
+title: "Trainspotting"
+releasedate: 1996
 rating: 8.1
 ---
 

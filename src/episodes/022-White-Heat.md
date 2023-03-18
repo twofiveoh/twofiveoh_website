@@ -4,8 +4,9 @@ epindex: 022
 tfoindex: 229
 imdbid: 42041
 coverurl: https://m.media-amazon.com/images/M/MV5BZmI5NTA3MjItYzdhMi00MWMxLTg3OWMtYWQyYjg5MTFmM2U0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-title: "White Heat
-"releasedate: 1951
+spotifyurl: https://open.spotify.com/episode/4wdMIYBI9BRX64j4EKfwhl
+title: "White Heat"
+releasedate: 1951
 rating: 8.1
 ---
 

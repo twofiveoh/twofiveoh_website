@@ -4,8 +4,9 @@ epindex: 107
 tfoindex: 144
 imdbid: 993846
 coverurl: https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Wolf of Wall Street
-"releasedate: 2014
+spotifyurl: https://open.spotify.com/episode/2dYV8mBq9D2oArZAc8Yt0f
+title: "The Wolf of Wall Street"
+releasedate: 2014
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 103
 tfoindex: 148
 imdbid: 476735
 coverurl: https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR1,0,202,300_.jpg
-title: "My Father and My Son
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/episode/427IvJ1APcFgrUdpUTkWUo
+title: "My Father and My Son"
+releasedate: 2005
 rating: 8.2
 ---
 

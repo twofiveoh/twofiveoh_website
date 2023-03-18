@@ -4,8 +4,9 @@ epindex: 066
 tfoindex: 185
 imdbid: 978762
 coverurl: https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR2,0,202,300_.jpg
-title: "Mary and Max
-"releasedate: 2009
+spotifyurl: https://open.spotify.com/episode/5WU6hGIeo7xZ8x1Nq6R8Ym
+title: "Mary and Max"
+releasedate: 2009
 rating: 8.1
 ---
 

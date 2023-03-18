@@ -4,8 +4,9 @@ epindex: 215
 tfoindex: 36
 imdbid: 120586
 coverurl: https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SY300_CR0,0,202,300_.jpg
-title: "American History X
-"releasedate: 1999
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "American History X"
+releasedate: 1999
 rating: 8.5
 ---
 

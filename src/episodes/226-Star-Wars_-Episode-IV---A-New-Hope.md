@@ -4,8 +4,9 @@ epindex: 226
 tfoindex: 25
 imdbid: 76759
 coverurl: https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_SX202_CR0,0,202,300_.jpg
-title: "Star Wars: Episode IV - A New Hope
-"releasedate: 1977
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Star Wars: Episode IV - A New Hope"
+releasedate: 1977
 rating: 8.6
 ---
 

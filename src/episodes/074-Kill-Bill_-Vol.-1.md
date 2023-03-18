@@ -4,8 +4,9 @@ epindex: 074
 tfoindex: 177
 imdbid: 266697
 coverurl: https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: "Kill Bill: Vol. 1
-"releasedate: 2003
+spotifyurl: https://open.spotify.com/episode/69911MR806lr3PF0dQXtSv
+title: "Kill Bill: Vol. 1"
+releasedate: 2003
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 081
 tfoindex: 170
 imdbid: 47296
 coverurl: https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-title: "On the Waterfront
-"releasedate: 1954
+spotifyurl: https://open.spotify.com/episode/4ztDYDEhwYTCogE7p8EhgC
+title: "On the Waterfront"
+releasedate: 1954
 rating: 8.1
 ---
 

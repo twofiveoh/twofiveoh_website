@@ -124,7 +124,8 @@ body {
     height: inherit;
     width: inherit;
     border-radius: 15px;
-    filter: grayscale(0%)
+    filter: grayscale(0%);
+    object-fit: cover;
 }
 
 .poster:hover .poster-image {

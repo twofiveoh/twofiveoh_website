@@ -4,8 +4,9 @@ epindex: 039
 tfoindex: 212
 imdbid: 1302006
 coverurl: https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Irishman
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/episode/3aAeHWmzxUm3H0shMoDixQ
+title: "The Irishman"
+releasedate: 2019
 rating: 7.8
 ---
 

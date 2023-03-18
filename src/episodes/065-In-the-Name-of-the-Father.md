@@ -4,8 +4,9 @@ epindex: 065
 tfoindex: 186
 imdbid: 107207
 coverurl: https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: "In the Name of the Father
-"releasedate: 1994
+spotifyurl: https://open.spotify.com/episode/1uPyzk3iotWUIyLo31j1LP
+title: "In the Name of the Father"
+releasedate: 1994
 rating: 8.1
 ---
 

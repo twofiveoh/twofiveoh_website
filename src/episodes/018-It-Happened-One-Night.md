@@ -4,8 +4,9 @@ epindex: 018
 tfoindex: 233
 imdbid: 25316
 coverurl: https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-title: "It Happened One Night
-"releasedate: 1934
+spotifyurl: https://open.spotify.com/episode/755QywlYfK6a2tVjBrik4i
+title: "It Happened One Night"
+releasedate: 1934
 rating: 8.1
 ---
 

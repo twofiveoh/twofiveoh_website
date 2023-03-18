@@ -4,8 +4,9 @@ epindex: 082
 tfoindex: 169
 imdbid: 107290
 coverurl: https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX202_CR0,0,202,300_.jpg
-title: "Jurassic Park
-"releasedate: 1993
+spotifyurl: https://open.spotify.com/episode/42wBakCUv6E50SFtRGvRaS
+title: "Jurassic Park"
+releasedate: 1993
 rating: 8.2
 ---
 

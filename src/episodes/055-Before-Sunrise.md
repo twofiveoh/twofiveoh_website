@@ -4,8 +4,9 @@ epindex: 055
 tfoindex: 196
 imdbid: 112471
 coverurl: https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Before Sunrise
-"releasedate: 1995
+spotifyurl: https://open.spotify.com/episode/3OsQ2UtZgsSVizE4jVKFby
+title: "Before Sunrise"
+releasedate: 1995
 rating: 8.1
 ---
 

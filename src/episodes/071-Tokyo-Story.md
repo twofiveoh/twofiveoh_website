@@ -4,8 +4,9 @@ epindex: 071
 tfoindex: 180
 imdbid: 46438
 coverurl: https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR1,0,202,300_.jpg
-title: "Tokyo Story
-"releasedate: 1953
+spotifyurl: https://open.spotify.com/episode/0Ai48J8KR09IWU20ucqWmA
+title: "Tokyo Story"
+releasedate: 1953
 rating: 8.2
 ---
 

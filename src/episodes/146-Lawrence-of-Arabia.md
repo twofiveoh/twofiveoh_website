@@ -4,8 +4,9 @@ epindex: 146
 tfoindex: 105
 imdbid: 56172
 coverurl: https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY300_CR1,0,202,300_.jpg
-title: "Lawrence of Arabia
-"releasedate: 1963
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Lawrence of Arabia"
+releasedate: 1963
 rating: 8.3
 ---
 

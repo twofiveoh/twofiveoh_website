@@ -4,8 +4,9 @@ epindex: 188
 tfoindex: 63
 imdbid: 50825
 coverurl: https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: "Paths of Glory
-"releasedate: 1958
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Paths of Glory"
+releasedate: 1958
 rating: 8.4
 ---
 

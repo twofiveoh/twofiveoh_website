@@ -4,8 +4,9 @@ epindex: 120
 tfoindex: 131
 imdbid: 53291
 coverurl: https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Some Like It Hot
-"releasedate: 1959
+spotifyurl: https://open.spotify.com/episode/3psfB8FJULHv78fg0ixd8m
+title: "Some Like It Hot"
+releasedate: 1959
 rating: 8.2
 ---
 

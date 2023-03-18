@@ -4,8 +4,9 @@ epindex: 104
 tfoindex: 147
 imdbid: 5027774
 coverurl: https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SY300_CR0,0,202,300_.jpg
-title: "Three Billboards Outside Ebbing, Missouri
-"releasedate: 2018
+spotifyurl: https://open.spotify.com/episode/12Tx84B9idsmjO4Tewgw0d
+title: "Three Billboards Outside Ebbing, Missouri"
+releasedate: 2018
 rating: 8.1
 ---
 

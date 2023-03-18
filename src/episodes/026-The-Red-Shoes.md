@@ -4,8 +4,9 @@ epindex: 026
 tfoindex: 225
 imdbid: 40725
 coverurl: https://m.media-amazon.com/images/M/MV5BOWRmNGEwZjUtZjEwNS00OGZmLThhMmEtZTJlMTU5MGQ3ZWUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Red Shoes
-"releasedate: 1949
+spotifyurl: https://open.spotify.com/episode/3BkwflOdzmS3BussX0uZ7j
+title: "The Red Shoes"
+releasedate: 1949
 rating: 8.1
 ---
 

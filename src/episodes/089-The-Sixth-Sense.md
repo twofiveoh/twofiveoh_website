@@ -4,8 +4,9 @@ epindex: 089
 tfoindex: 162
 imdbid: 167404
 coverurl: https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Sixth Sense
-"releasedate: 1999
+spotifyurl: https://open.spotify.com/episode/6jQOQ1q495iX8BrTGtpINt
+title: "The Sixth Sense"
+releasedate: 1999
 rating: 8.2
 ---
 

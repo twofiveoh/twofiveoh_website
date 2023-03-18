@@ -4,8 +4,9 @@ epindex: 137
 tfoindex: 114
 imdbid: 56592
 coverurl: https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: "To Kill a Mockingbird
-"releasedate: 1963
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "To Kill a Mockingbird"
+releasedate: 1963
 rating: 8.3
 ---
 

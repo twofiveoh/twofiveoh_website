@@ -4,8 +4,9 @@ epindex: 114
 tfoindex: 137
 imdbid: 42192
 coverurl: https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX202_CR0,0,202,300_.jpg
-title: "All About Eve
-"releasedate: 1951
+spotifyurl: https://open.spotify.com/episode/2xRV0RlHMWckqbc2yVO4mf
+title: "All About Eve"
+releasedate: 1951
 rating: 8.2
 ---
 

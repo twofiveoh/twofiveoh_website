@@ -4,8 +4,9 @@ epindex: 056
 tfoindex: 195
 imdbid: 60827
 coverurl: https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "Persona
-"releasedate: 1966
+spotifyurl: https://open.spotify.com/episode/7nNVmi6JU8f9jj5paYP6Gj
+title: "Persona"
+releasedate: 1966
 rating: 8.1
 ---
 

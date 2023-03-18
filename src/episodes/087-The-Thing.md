@@ -4,8 +4,9 @@ epindex: 087
 tfoindex: 164
 imdbid: 84787
 coverurl: https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Thing
-"releasedate: 1982
+spotifyurl: https://open.spotify.com/episode/4y5g3qkfKobFjVUPepSRBP
+title: "The Thing"
+releasedate: 1982
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 113
 tfoindex: 138
 imdbid: 112641
 coverurl: https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Casino
-"releasedate: 1996
+spotifyurl: https://open.spotify.com/episode/4V20ZeXKY2TyeQXQFKlpb1
+title: "Casino"
+releasedate: 1996
 rating: 8.2
 ---
 

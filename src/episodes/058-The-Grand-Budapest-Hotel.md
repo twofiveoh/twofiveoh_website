@@ -4,8 +4,9 @@ epindex: 058
 tfoindex: 193
 imdbid: 2278388
 coverurl: https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Grand Budapest Hotel
-"releasedate: 2014
+spotifyurl: https://open.spotify.com/episode/0HllTlY7wnOZET1AZm1RHx
+title: "The Grand Budapest Hotel"
+releasedate: 2014
 rating: 8.1
 ---
 

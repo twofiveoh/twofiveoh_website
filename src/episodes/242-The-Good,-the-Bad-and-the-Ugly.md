@@ -4,8 +4,9 @@ epindex: 242
 tfoindex: 9
 imdbid: 60196
 coverurl: https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Good, the Bad and the Ugly
-"releasedate: 1966
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "The Good, the Bad and the Ugly"
+releasedate: 1966
 rating: 8.8
 ---
 

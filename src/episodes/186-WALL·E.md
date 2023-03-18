@@ -4,8 +4,9 @@ epindex: 186
 tfoindex: 65
 imdbid: 910970
 coverurl: https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY300_CR0,0,202,300_.jpg
-title: "WALL·E
-"releasedate: 2008
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "WALL·E"
+releasedate: 2008
 rating: 8.4
 ---
 

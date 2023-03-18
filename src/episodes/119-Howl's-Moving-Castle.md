@@ -4,8 +4,9 @@ epindex: 119
 tfoindex: 132
 imdbid: 347149
 coverurl: https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX202_CR0,0,202,300_.jpg
-title: "Howl's Moving Castle
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/episode/0Q8E8dFIA0wjqJ3BUcSeEL
+title: "Howl's Moving Castle"
+releasedate: 2005
 rating: 8.2
 ---
 

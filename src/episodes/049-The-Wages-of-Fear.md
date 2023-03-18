@@ -4,8 +4,9 @@ epindex: 049
 tfoindex: 202
 imdbid: 46268
 coverurl: https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY300_CR1,0,202,300_.jpg
-title: "The Wages of Fear
-"releasedate: 1953
+spotifyurl: https://open.spotify.com/episode/5JB5OnJY9aUlpwgV3hFtIr
+title: "The Wages of Fear"
+releasedate: 1953
 rating: 8.2
 ---
 

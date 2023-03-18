@@ -4,8 +4,9 @@ epindex: 098
 tfoindex: 153
 imdbid: 434409
 coverurl: https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SY300_CR0,0,202,300_.jpg
-title: "V for Vendetta
-"releasedate: 2006
+spotifyurl: https://open.spotify.com/episode/0tJIQ3yI19KoCEe4kZjiPo
+title: "V for Vendetta"
+releasedate: 2006
 rating: 8.2
 ---
 

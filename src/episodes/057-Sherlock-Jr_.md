@@ -4,8 +4,9 @@ epindex: 057
 tfoindex: 194
 imdbid: 15324
 coverurl: https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX202_CR0,0,202,300_.jpg
-title: "Sherlock Jr.
-"releasedate: (Canada)
+spotifyurl: https://open.spotify.com/episode/3A7LvA5iL30PFm5y730elz
+title: "Sherlock Jr."
+releasedate: (Canada)
 rating: 8.2
 ---
 

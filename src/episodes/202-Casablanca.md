@@ -4,8 +4,9 @@ epindex: 202
 tfoindex: 49
 imdbid: 34583
 coverurl: https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX202_CR0,0,202,300_.jpg
-title: "Casablanca
-"releasedate: 1944
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Casablanca"
+releasedate: 1944
 rating: 8.5
 ---
 

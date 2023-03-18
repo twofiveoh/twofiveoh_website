@@ -4,8 +4,9 @@ epindex: 045
 tfoindex: 206
 imdbid: 1392190
 coverurl: https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-title: "Mad Max: Fury Road
-"releasedate: 2015
+spotifyurl: https://open.spotify.com/episode/4eMa7v4K4Y7uPe0WaF9Prg
+title: "Mad Max: Fury Road"
+releasedate: 2015
 rating: 8.1
 ---
 

@@ -4,8 +4,9 @@ epindex: 020
 tfoindex: 231
 imdbid: 198781
 coverurl: https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SY300_CR0,0,202,300_.jpg
-title: "Monsters, Inc.
-"releasedate: 2001
+spotifyurl: https://open.spotify.com/episode/1pU7eXi6KFEGF371Pj8ETS
+title: "Monsters, Inc."
+releasedate: 2001
 rating: 8.1
 ---
 

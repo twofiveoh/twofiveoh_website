@@ -4,8 +4,9 @@ epindex: 072
 tfoindex: 179
 imdbid: 77416
 coverurl: https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Deer Hunter
-"releasedate: 1979
+spotifyurl: https://open.spotify.com/episode/4FOoo8CnnjxiERZhnSGZwL
+title: "The Deer Hunter"
+releasedate: 1979
 rating: 8.1
 ---
 

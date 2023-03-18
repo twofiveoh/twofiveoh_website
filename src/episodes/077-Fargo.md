@@ -4,8 +4,9 @@ epindex: 077
 tfoindex: 174
 imdbid: 116282
 coverurl: https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg
-title: "Fargo
-"releasedate: 1996
+spotifyurl: https://open.spotify.com/episode/1msGJqQH4Ee5i9YfdLVSdB
+title: "Fargo"
+releasedate: 1996
 rating: 8.1
 ---
 

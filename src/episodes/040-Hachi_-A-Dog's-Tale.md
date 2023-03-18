@@ -4,8 +4,9 @@ epindex: 040
 tfoindex: 211
 imdbid: 1028532
 coverurl: https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR2,0,202,300_.jpg
-title: "Hachi: A Dog's Tale
-"releasedate: 2009
+spotifyurl: https://open.spotify.com/episode/2odzK5R39IOacyY1Pdf86F
+title: "Hachi: A Dog's Tale"
+releasedate: 2009
 rating: 8.1
 ---
 

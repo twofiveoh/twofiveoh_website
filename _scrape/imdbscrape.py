@@ -64,6 +64,9 @@ with open(extrasloc, newline='') as extrasfile:
 for ep in list:
     print(ep["epindex"])
 
+    if (float(ep["epindex"]) < 209.0):
+        continue
+
     if ep["type"] == 'a' or (ep["type"] == 'b' and ep["imdbid"] != None and ep["imdbid"] != ''):
         movie = ia.get_movie(ep["imdbid"])
 
@@ -92,25 +95,25 @@ for ep in list:
             "plotoutline": movie.get('plot outline')
         }
         # catch future bonus episodes where a film has not been selected
-    elif ep["type"] == 'b':
-        e = {
-            "epindex": ep["epindex"],
-            "tfoindex": ep["listindex"],
-            "imdbid": "",
-            "coverurl": "",
-            "title": "upcoming bonus episode",
-            "releasedate": "",
-            "rating": "?",
-            "plotoutline": ""
-        }
-    else:
+    # elif ep["type"] == 'b':
+    #     e = {
+    #         "epindex": ep["epindex"],
+    #         "tfoindex": ep["listindex"],
+    #         "imdbid": "",
+    #         "coverurl": "",
+    #         "title": "upcoming bonus episode",
+    #         "releasedate": "",
+    #         "rating": "?",
+    #         "plotoutline": ""
+    #     }
+    elif ep["type"] != 'b':
         e = {
             "epindex": ep["epindex"],
             "tfoindex": ep["listindex"],
             "imdbid": "",
             "spotifyurl": "https://open.spotify.com/episode/" + ep["spotifyid"] if ep["spotifyid"] else "https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM",
-            # i am truly a terrible fucking programmer
-            "coverurl": extras[ep["listindex"]]["coverurl"],
+            # TODO: no fr this actually needs to get fixed
+            "coverurl": extras.get(ep.get("listindex")).get("coverurl") or "/img/missing.png/",
             "title": extras[ep["listindex"]]["title"],
             "releasedate": extras[ep["listindex"]]["releasedate"],
             "rating": extras[ep["listindex"]]["rating"],
@@ -124,7 +127,7 @@ for ep in list:
     out += f'tfoindex: {e["tfoindex"]}\n'
     out += f'imdbid: {e["imdbid"]}\n'
     out += f'coverurl: {e["coverurl"]}\n'
-    out += f'spotifyurl: {e["spotifyurl"]}\n'
+    out += f'spotifyurl: {e.get("spotifyurl") or ""}\n'
     out += f'title: "{e["title"]}"\n'
     out += f'releasedate: {e["releasedate"]}\n'
     out += f'rating: {e["rating"]}\n'

@@ -4,8 +4,9 @@ epindex: 213
 tfoindex: 38
 imdbid: 103064
 coverurl: https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Terminator 2: Judgment Day
-"releasedate: 1991
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Terminator 2: Judgment Day"
+releasedate: 1991
 rating: 8.6
 ---
 

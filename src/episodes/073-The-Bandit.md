@@ -4,8 +4,9 @@ epindex: 073
 tfoindex: 178
 imdbid: 116231
 coverurl: https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY300_CR2,0,202,300_.jpg
-title: "The Bandit
-"releasedate: 1996
+spotifyurl: https://open.spotify.com/episode/08FtjTrcnmqhrGQYXamv9y
+title: "The Bandit"
+releasedate: 1996
 rating: 8.1
 ---
 

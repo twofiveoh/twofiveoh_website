@@ -4,8 +4,9 @@ epindex: 106
 tfoindex: 145
 imdbid: 40897
 coverurl: https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Treasure of the Sierra Madre
-"releasedate: 1949
+spotifyurl: https://open.spotify.com/episode/2UKuZFoQzKPYjP42EWacCZ
+title: "The Treasure of the Sierra Madre"
+releasedate: 1949
 rating: 8.2
 ---
 

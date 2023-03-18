@@ -4,8 +4,9 @@ epindex: 109
 tfoindex: 142
 imdbid: 1305806
 coverurl: https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Secret in Their Eyes
-"releasedate: 2010
+spotifyurl: https://open.spotify.com/episode/7MdNiWVWWRJpxubZeBTI8C
+title: "The Secret in Their Eyes"
+releasedate: 2010
 rating: 8.2
 ---
 

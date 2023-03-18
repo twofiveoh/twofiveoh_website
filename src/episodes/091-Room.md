@@ -4,8 +4,9 @@ epindex: 091
 tfoindex: 160
 imdbid: 3170832
 coverurl: https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SY300_CR0,0,202,300_.jpg
-title: "Room
-"releasedate: 2016
+spotifyurl: https://open.spotify.com/episode/2A4ny0npeo3xljGjUKuuiA
+title: "Room"
+releasedate: 2016
 rating: 8.1
 ---
 

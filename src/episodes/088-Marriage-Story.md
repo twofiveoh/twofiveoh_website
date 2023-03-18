@@ -4,8 +4,9 @@ epindex: 088
 tfoindex: 163
 imdbid: 7653254
 coverurl: https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY300_CR0,0,202,300_.jpg
-title: "Marriage Story
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/episode/68gRC3NePo1gjDtSRr0O1k
+title: "Marriage Story"
+releasedate: 2019
 rating: 7.9
 ---
 

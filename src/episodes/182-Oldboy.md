@@ -4,8 +4,9 @@ epindex: 182
 tfoindex: 69
 imdbid: 364569
 coverurl: https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Oldboy
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Oldboy"
+releasedate: 2005
 rating: 8.4
 ---
 

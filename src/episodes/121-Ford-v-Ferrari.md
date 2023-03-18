@@ -4,8 +4,9 @@ epindex: 121
 tfoindex: 130
 imdbid: 1950186
 coverurl: https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SY300_CR0,0,202,300_.jpg
-title: "Ford v Ferrari
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/episode/0eOUxDJmMbYlbfwCd7oamb
+title: "Ford v Ferrari"
+releasedate: 2019
 rating: 8.1
 ---
 

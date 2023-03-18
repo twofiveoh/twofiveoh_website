@@ -4,8 +4,9 @@ epindex: 110
 tfoindex: 141
 imdbid: 81398
 coverurl: https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SY300_CR0,0,202,300_.jpg
-title: "Raging Bull
-"releasedate: 1981
+spotifyurl: https://open.spotify.com/episode/7rnUbiYECRtCX3aM9jTAJV
+title: "Raging Bull"
+releasedate: 1981
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 136
 tfoindex: 115
 imdbid: 53604
 coverurl: https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX202_CR0,0,202,300_.jpg
-title: "The Apartment
-"releasedate: 1961
+spotifyurl: https://open.spotify.com/episode/42BwONY2rq8Fwycyw7Nv94
+title: "The Apartment"
+releasedate: 1961
 rating: 8.3
 ---
 

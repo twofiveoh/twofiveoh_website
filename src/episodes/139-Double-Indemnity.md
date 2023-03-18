@@ -4,8 +4,9 @@ epindex: 139
 tfoindex: 112
 imdbid: 36775
 coverurl: https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX202_CR0,0,202,300_.jpg
-title: "Double Indemnity
-"releasedate: 1944
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Double Indemnity"
+releasedate: 1944
 rating: 8.3
 ---
 

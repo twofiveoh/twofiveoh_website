@@ -4,8 +4,9 @@ epindex: 080
 tfoindex: 171
 imdbid: 266543
 coverurl: https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Finding Nemo
-"releasedate: 2003
+spotifyurl: https://open.spotify.com/episode/4VivzPXdZBPi7M0oryEHH0
+title: "Finding Nemo"
+releasedate: 2003
 rating: 8.2
 ---
 

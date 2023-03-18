@@ -4,8 +4,9 @@ epindex: 044
 tfoindex: 207
 imdbid: 91763
 coverurl: https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg
-title: "Platoon
-"releasedate: 1987
+spotifyurl: https://open.spotify.com/episode/0DvbmshtySyBCMFnsRcRES
+title: "Platoon"
+releasedate: 1987
 rating: 8.1
 ---
 

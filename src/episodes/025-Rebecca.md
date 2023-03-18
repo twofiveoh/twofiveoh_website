@@ -4,8 +4,9 @@ epindex: 025
 tfoindex: 226
 imdbid: 32976
 coverurl: https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY300_CR1,0,202,300_.jpg
-title: "Rebecca
-"releasedate: 1940
+spotifyurl: https://open.spotify.com/episode/2RVPvgp4cpfU2NF8eukhuy
+title: "Rebecca"
+releasedate: 1940
 rating: 8.1
 ---
 

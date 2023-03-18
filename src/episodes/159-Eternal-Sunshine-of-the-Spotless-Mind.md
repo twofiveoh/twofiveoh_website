@@ -4,8 +4,9 @@ epindex: 159
 tfoindex: 92
 imdbid: 338013
 coverurl: https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Eternal Sunshine of the Spotless Mind
-"releasedate: 2004
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Eternal Sunshine of the Spotless Mind"
+releasedate: 2004
 rating: 8.3
 ---
 

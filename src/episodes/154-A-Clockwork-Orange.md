@@ -4,8 +4,9 @@ epindex: 154
 tfoindex: 97
 imdbid: 66921
 coverurl: https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SY300_CR0,0,202,300_.jpg
-title: "A Clockwork Orange
-"releasedate: 1972
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "A Clockwork Orange"
+releasedate: 1972
 rating: 8.3
 ---
 

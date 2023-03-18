@@ -4,8 +4,9 @@ epindex: 069
 tfoindex: 182
 imdbid: 79944
 coverurl: https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_SY300_CR2,0,202,300_.jpg
-title: "Stalker
-"releasedate: 1980
+spotifyurl: https://open.spotify.com/episode/5ztvlQ4aq8TgCeAOT9vLKJ
+title: "Stalker"
+releasedate: 1980
 rating: 8.1
 ---
 

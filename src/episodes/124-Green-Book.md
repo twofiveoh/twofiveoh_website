@@ -4,8 +4,9 @@ epindex: 124
 tfoindex: 127
 imdbid: 6966692
 coverurl: https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX202_CR0,0,202,300_.jpg
-title: "Green Book
-"releasedate: 2019
+spotifyurl: https://open.spotify.com/episode/20AgCTgaL5aNOw1jM5s1tO
+title: "Green Book"
+releasedate: 2019
 rating: 8.2
 ---
 

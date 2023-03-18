@@ -4,8 +4,9 @@ epindex: 237
 tfoindex: 14
 imdbid: 80684
 coverurl: https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-title: "Star Wars: Episode V - The Empire Strikes Back
-"releasedate: 1980
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Star Wars: Episode V - The Empire Strikes Back"
+releasedate: 1980
 rating: 8.7
 ---
 

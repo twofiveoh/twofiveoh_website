@@ -4,8 +4,9 @@ epindex: 019
 tfoindex: 232
 imdbid: 3417422
 coverurl: https://m.media-amazon.com/images/M/MV5BYmY3MzYwMGUtOWMxYS00OGVhLWFjNmUtYzlkNGVmY2ZkMjA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY300_CR6,0,202,300_.jpg
-title: "Drishyam
-"releasedate: 2013
+spotifyurl: https://open.spotify.com/episode/2zpLexmFR53jo8bl6Nndr8
+title: "Drishyam"
+releasedate: 2013
 rating: 8.3
 ---
 

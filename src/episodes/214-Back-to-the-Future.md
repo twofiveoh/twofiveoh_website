@@ -4,8 +4,9 @@ epindex: 214
 tfoindex: 37
 imdbid: 88763
 coverurl: https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg
-title: "Back to the Future
-"releasedate: 1985
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Back to the Future"
+releasedate: 1985
 rating: 8.5
 ---
 

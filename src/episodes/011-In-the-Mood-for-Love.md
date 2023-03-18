@@ -4,8 +4,9 @@ epindex: 011
 tfoindex: 240
 imdbid: 118694
 coverurl: https://m.media-amazon.com/images/M/MV5BYWVjNjMwZTgtMGYyYy00NmVhLWE1NDItMzFhMmJkYTNjYWIwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-title: "In the Mood for Love
-"releasedate: 2001
+spotifyurl: https://open.spotify.com/episode/0EYKryfoI62oin3HOckyoX
+title: "In the Mood for Love"
+releasedate: 2001
 rating: 8.1
 ---
 

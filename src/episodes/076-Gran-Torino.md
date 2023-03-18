@@ -4,8 +4,9 @@ epindex: 076
 tfoindex: 175
 imdbid: 1205489
 coverurl: https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Gran Torino
-"releasedate: 2009
+spotifyurl: https://open.spotify.com/episode/172Lwuaooc1fSnBSLfglIg
+title: "Gran Torino"
+releasedate: 2009
 rating: 8.1
 ---
 

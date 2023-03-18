@@ -4,8 +4,9 @@ epindex: 051
 tfoindex: 200
 imdbid: 2024544
 coverurl: https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SY300_CR0,0,202,300_.jpg
-title: "12 Years a Slave
-"releasedate: 2014
+spotifyurl: https://open.spotify.com/episode/2pWoiXr4cdd4u1X5oqdYN4
+title: "12 Years a Slave"
+releasedate: 2014
 rating: 8.1
 ---
 

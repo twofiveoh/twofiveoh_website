@@ -4,8 +4,9 @@ epindex: 017
 tfoindex: 234
 imdbid: 113247
 coverurl: https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "La haine
-"releasedate: 1996
+spotifyurl: https://open.spotify.com/episode/6Sl2XVng9i061ITFGZuDbc
+title: "La haine"
+releasedate: 1996
 rating: 8.1
 ---
 

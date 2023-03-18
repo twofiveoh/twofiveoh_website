@@ -4,8 +4,9 @@ epindex: 012
 tfoindex: 239
 imdbid: 1454029
 coverurl: https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SY300_CR0,0,202,300_.jpg
-title: "The Help
-"releasedate: 2011
+spotifyurl: https://open.spotify.com/episode/7grb5pu2qSVPSxjZ3Afi7n
+title: "The Help"
+releasedate: 2011
 rating: 8.1
 ---
 

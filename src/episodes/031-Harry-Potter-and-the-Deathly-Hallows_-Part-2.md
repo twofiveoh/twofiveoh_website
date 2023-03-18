@@ -4,8 +4,9 @@ epindex: 031
 tfoindex: 220
 imdbid: 1201607
 coverurl: https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX202_CR0,0,202,300_.jpg
-title: "Harry Potter and the Deathly Hallows: Part 2
-"releasedate: 2011
+spotifyurl: https://open.spotify.com/episode/2uBiUGEA3Mk0ahLWmODUAa
+title: "Harry Potter and the Deathly Hallows: Part 2"
+releasedate: 2011
 rating: 8.1
 ---
 

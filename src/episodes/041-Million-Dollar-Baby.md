@@ -4,8 +4,9 @@ epindex: 041
 tfoindex: 210
 imdbid: 405159
 coverurl: https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Million Dollar Baby
-"releasedate: 2005
+spotifyurl: https://open.spotify.com/episode/6Pbjplrx1NYpCEOasDPF3p
+title: "Million Dollar Baby"
+releasedate: 2005
 rating: 8.1
 ---
 

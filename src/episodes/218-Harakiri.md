@@ -4,8 +4,9 @@ epindex: 218
 tfoindex: 33
 imdbid: 56058
 coverurl: https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY300_CR4,0,202,300_.jpg
-title: "Harakiri
-"releasedate: 1962
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Harakiri"
+releasedate: 1962
 rating: 8.6
 ---
 

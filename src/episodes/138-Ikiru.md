@@ -4,8 +4,9 @@ epindex: 138
 tfoindex: 113
 imdbid: 44741
 coverurl: https://m.media-amazon.com/images/M/MV5BNDBiNTc2YTUtNzMzZi00ZjZhLWEwMGMtZjEzMzAyYzk2MjYyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX202_CR0,0,202,300_.jpg
-title: "Ikiru
-"releasedate: 1952
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Ikiru"
+releasedate: 1952
 rating: 8.3
 ---
 

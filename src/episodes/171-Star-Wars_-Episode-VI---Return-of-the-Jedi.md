@@ -4,8 +4,9 @@ epindex: 171
 tfoindex: 80
 imdbid: 86190
 coverurl: https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX202_CR0,0,202,300_.jpg
-title: "Star Wars: Episode VI - Return of the Jedi
-"releasedate: 1983
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Star Wars: Episode VI - Return of the Jedi"
+releasedate: 1983
 rating: 8.3
 ---
 

@@ -4,8 +4,9 @@ epindex: 105
 tfoindex: 146
 imdbid: 55031
 coverurl: https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX202_CR0,0,202,300_.jpg
-title: "Judgment at Nuremberg
-"releasedate: 1961
+spotifyurl: https://open.spotify.com/episode/46dCg0rPHJQ7U9mMIemjoG
+title: "Judgment at Nuremberg"
+releasedate: 1961
 rating: 8.3
 ---
 

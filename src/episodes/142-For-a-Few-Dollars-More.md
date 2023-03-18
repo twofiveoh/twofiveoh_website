@@ -4,8 +4,9 @@ epindex: 142
 tfoindex: 109
 imdbid: 59578
 coverurl: https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-title: "For a Few Dollars More
-"releasedate: 1965
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "For a Few Dollars More"
+releasedate: 1965
 rating: 8.2
 ---
 

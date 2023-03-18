@@ -4,8 +4,9 @@ epindex: 162
 tfoindex: 89
 imdbid: 180093
 coverurl: https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Requiem for a Dream
-"releasedate: 2001
+spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+title: "Requiem for a Dream"
+releasedate: 2001
 rating: 8.3
 ---
 

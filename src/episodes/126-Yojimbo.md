@@ -4,8 +4,9 @@ epindex: 126
 tfoindex: 125
 imdbid: 55630
 coverurl: https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX202_CR0,0,202,300_.jpg
-title: "Yojimbo
-"releasedate: 1961
+spotifyurl: https://open.spotify.com/episode/3ZhdVRkQ5WUXNBHgM5AMRm
+title: "Yojimbo"
+releasedate: 1961
 rating: 8.2
 ---
 

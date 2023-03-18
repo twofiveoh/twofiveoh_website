@@ -4,8 +4,9 @@ epindex: 099
 tfoindex: 152
 imdbid: 46912
 coverurl: https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-title: "Dial M for Murder
-"releasedate: 1955
+spotifyurl: https://open.spotify.com/episode/00wtfSiIpFP8htrvMGW3tC
+title: "Dial M for Murder"
+releasedate: 1955
 rating: 8.2
 ---
 

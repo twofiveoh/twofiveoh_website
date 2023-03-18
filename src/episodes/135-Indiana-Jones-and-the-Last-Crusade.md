@@ -4,8 +4,9 @@ epindex: 135
 tfoindex: 116
 imdbid: 97576
 coverurl: https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_SX202_CR0,0,202,300_.jpg
-title: "Indiana Jones and the Last Crusade
-"releasedate: 1989
+spotifyurl: https://open.spotify.com/episode/1AUlr2eYrYBi9ns4mb99pZ
+title: "Indiana Jones and the Last Crusade"
+releasedate: 1989
 rating: 8.2
 ---
 

@@ -4,8 +4,9 @@ epindex: 053
 tfoindex: 198
 imdbid: 1392214
 coverurl: https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SY300_CR0,0,202,300_.jpg
-title: "Prisoners
-"releasedate: 2013
+spotifyurl: https://open.spotify.com/episode/57Z7ZQ8FsfycRBNt4hPZks
+title: "Prisoners"
+releasedate: 2013
 rating: 8.1
 ---
 
