@@ -13,7 +13,8 @@ layout: base.njk
   <body>
     <div class="episode-container">
     {%- for ep in collections.episode -%}
-        <div class="poster" style="background-image: url({{ep.data.coverurl}})"> 
+        <div class="poster"> 
+            <img class="poster-image" onload="this.style.opacity=1" src="{{ep.data.coverurl}}"/>
             <div class="poster-contents">
                 {{ep.content}} 
             </div>
