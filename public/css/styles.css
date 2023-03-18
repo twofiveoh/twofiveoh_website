@@ -49,13 +49,12 @@ template {display: none;}
     --bg: #474747;
     --accent-bg: #ddd;
     --dark: #333;
-    --text: #333;
-    --text-light: #585858;
-    --border: #d8dae1;
-    --accent: #0d47a1;
 
-    --poster-height: 225px;
-    --poster-width: 150px;
+    --accent: #007bff;
+    --spotify: #1db954;    
+
+    --poster-height: 300px;
+    --poster-width: 200px;
     --logo-size: 100px;
 }
 
@@ -119,7 +118,7 @@ body {
 
 .poster-image {
     opacity: 0;
-    transition: all 0.5s ease;
+    transition: all 0.05s ease;
     width: var(--poster-width);
     height: var(--poster-height);
     position: absolute;
@@ -127,6 +126,12 @@ body {
     height: inherit;
     width: inherit;
     border-radius: 15px;
+    filter: grayscale(0%)
+}
+
+.poster:hover .poster-image {
+    filter: grayscale(75%);
+    transition: all 0.05s ease;
 }
 
 .poster-contents {
@@ -139,12 +144,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 5px;
+    padding: 10px;
     box-sizing: border-box;
-    background-color: rgba(71,71,71,0.5);
-}
-
-.poster .poster-contents {
+    background-color: rgba(71,71,71,0.85);
     opacity: 0;
 }
 
@@ -161,6 +163,17 @@ body {
 .poster-button {
     /* width: inherit; */
     background-color: var(--accent-bg);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+.more-button {
+    background-color: var(--accent);
+}
+
+.listen-button {
+    background-color: var(--spotify);
 }
 
 /* .aurora-outer {
