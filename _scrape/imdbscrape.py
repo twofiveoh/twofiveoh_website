@@ -4,6 +4,9 @@ import json
 import re
 from imdb import Cinemagoer
 
+# the more i read into the dogshit documentation for the cinemagoer package the more i feel relieved that i'm not the
+# problem and that the syntax actually is
+
 listloc = './list.csv'
 extrasloc = './extras.csv'
 ia = Cinemagoer()
