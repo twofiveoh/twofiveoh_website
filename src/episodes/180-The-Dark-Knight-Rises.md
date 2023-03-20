@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZT
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "The Dark Knight Rises"
 releasedate: 2012
-rating: 8.4
+rating: "8.4"
 ---
 
 Despite his tarnished reputation after the events of The Dark Knight (2008), in which he took the rap for Dent's crimes, Batman feels compelled to intervene to assist the city and its Police force, which is struggling to cope with Bane's plans to destroy the city.

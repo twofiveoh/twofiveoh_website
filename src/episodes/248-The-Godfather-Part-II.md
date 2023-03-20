@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMD
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "The Godfather Part II"
 releasedate: 1975
-rating: 9.0
+rating: "9.0"
 ---
 
 The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.

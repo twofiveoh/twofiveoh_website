@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZT
 spotifyurl: https://open.spotify.com/episode/2spUdTu8S7nR0BObWLqYZ4
 title: "Butch Cassidy and the Sundance Kid"
 releasedate: 1970
-rating: 8.0
+rating: "8.0"
 ---
 
 Butch and Sundance are the two leaders of the Hole-in-the-Wall Gang. Butch is all ideas, Sundance is all action and skill. The west is becoming civilized, and when Butch and Sundance rob a train once too often, a special posse begins trailing them no matter where they run. Over rocks, through towns, across rivers, the group is always just behind them. When they finally escape through sheer luck, Butch has another idea, "Let's go to Bolivia". Based on the exploits of the historical characters.

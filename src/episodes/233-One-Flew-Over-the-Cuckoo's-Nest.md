@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4Zj
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "One Flew Over the Cuckoo's Nest"
 releasedate: 1976
-rating: 8.7
+rating: "8.7"
 ---
 
 McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse.

@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOG
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "Witness for the Prosecution"
 releasedate: 1958
-rating: 8.4
+rating: "8.4"
 ---
 
 Ailing barrister Sir Wilfrid Robarts is thrust back into the courtroom in what becomes one of the most unusual and eventful murder cases of the lawyer's career when he finds himself defending Leonard Vole, a man being tried for the murder of a wealthy woman. With Robarts choosing to represent him, the two find themselves up against Leonard's cold-hearted wife, Christine - who, in a surprising turn of events, chooses to appear in court against her husband.

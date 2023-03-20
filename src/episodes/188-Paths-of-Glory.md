@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "Paths of Glory"
 releasedate: 1958
-rating: 8.4
+rating: "8.4"
 ---
 
 The futility and irony of the war in the trenches in WWI is shown as a unit commander in the French army must deal with the mutiny of his men and a glory-seeking general after part of his force falls back under fire in an impossible attack.

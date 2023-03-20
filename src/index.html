@@ -24,11 +24,15 @@ layout: base.njk
         <div class="poster-text">
           <span class="index-no">{{ ep.data.tfoindex }}</span></br>
           <span class="title">{{ ep.data.title }}</span></br>
+          {%- if ep.data.rating != null -%}
           <span class="imdb-score">
-            <img class="inline-svg" src="/img/star.svg">
+            <img class="inline-svg" height="18px" width="18px" src="/img/star.svg">
             {{ ep.data.rating }}
-            <img class="inline-svg" src="/img/imdb.svg">
+            <a href="https://www.imdb.com/title/tt{{ ep.data.imdbid | prepend: '00' | slice: -7, 7 }}">
+              <img class="inline-svg" height="18px" width="26px" src="/img/imdb.svg">
+            </a>
           </span>
+          {%- endif -%}
           <span class="description">{{ ep.content }}</span>
         </div>
         <div class="buttons">

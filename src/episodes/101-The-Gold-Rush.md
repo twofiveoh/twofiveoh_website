@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOT
 spotifyurl: https://open.spotify.com/episode/0RiCPyrQp8OlnO2j71DngN
 title: "The Gold Rush"
 releasedate: 1926
-rating: 8.1
+rating: "8.1"
 ---
 
 A lone prospector ventures into Alaska looking for gold. He gets mixed up with some burly characters and falls in love with the beautiful Georgia. He tries to win her heart with his singular charm.

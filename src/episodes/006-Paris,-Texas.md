@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5Yz
 spotifyurl: https://open.spotify.com/episode/6lrq6Mp0IuAz5Ao82J4fyv
 title: "Paris, Texas"
 releasedate: 1985
-rating: 8.1
+rating: "8.1"
 ---
 
 A man wanders out of the desert after a four year absence. His brother finds him, and together they return to L.A. to reunite the man with his young son. Soon after, he and the boy set out to locate the mother of the child, who left shortly after the man disappeared.

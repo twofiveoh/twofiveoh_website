@@ -159,6 +159,7 @@ body {
 }
 
 .poster-contents {
+    color: var(--accent-bg);
     width: var(--poster-width);
     height: var(--poster-height);
     position: absolute;
@@ -176,21 +177,16 @@ body {
     transition: all 0.15s ease;
 }
 
-.poster-text {
-    flex-shrink: 1;
-    color: var(--accent-bg);
-}
-
 .poster-text span {
     display: inline-block;
     margin-bottom: 4px;
 }
 
-.poster-text p {
+.description p {
     margin: 0;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 5;
+    -webkit-line-clamp: 4;
     overflow: hidden;
 }
 
@@ -204,6 +200,14 @@ body {
     font-weight: bold;
     font-size: larger;
     width:100%;
+}
+
+.imdb-score {
+    height: 1lh;
+    display: flex !important;
+    flex-direction: row;
+    justify-content: start;
+    gap: 5px;
 }
 
 .poster:hover .poster-contents {
@@ -225,7 +229,8 @@ body {
     position: relative;
     height: 100%;
     padding: 0;
-    vertical-align: baseline;
+    align-items: center;
+    bottom: 0;
 }
 
 .poster-button {

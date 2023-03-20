@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMT
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "Good Will Hunting"
 releasedate: 1998
-rating: 8.3
+rating: "8.3"
 ---
 
 A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart.

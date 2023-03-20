@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMD
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "To Kill a Mockingbird"
 releasedate: 1963
-rating: 8.3
+rating: "8.3"
 ---
 
 In small-town Alabama in 1932, Atticus Finch (Gregory Peck) is a lawyer and a widower. He has two young children, Jem and Scout. Atticus Finch is currently defending Tom Robinson, a Black man accused of raping a white woman. Meanwhile, Jem and Scout are intrigued by their neighbors, the Radleys, in particular the mysterious, seldom-seen Boo Radley.

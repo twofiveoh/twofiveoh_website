@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZD
 spotifyurl: https://open.spotify.com/episode/6zxBEzth821pz80d4R60JL
 title: "Nausicaä of the Valley of the Wind"
 releasedate: 1988
-rating: 8.0
+rating: "8.0"
 ---
 
 An animated fantasy-adventure. Set one thousand years from now, the Earth is ravaged by pollution and war. In the Valley of the Wind lives Nausica�, Princess of her people. Their land borders on a toxic jungle, filled with dangerous over-sized insects. Meanwhile, two nearby nations are bitterly engaged in a war and the Valley of the Wind is stuck in the middle.

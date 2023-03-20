@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MD
 spotifyurl: https://open.spotify.com/episode/4ztDYDEhwYTCogE7p8EhgC
 title: "On the Waterfront"
 releasedate: 1954
-rating: 8.1
+rating: "8.1"
 ---
 
 Terry Malloy dreams about being a prize fighter, while tending his pigeons and running errands at the docks for Johnny Friendly, the corrupt boss of the dockers union. Terry witnesses a murder by two of Johnny's thugs, and later meets the dead man's sister and feels responsible for his death. She introduces him to Father Barry, who tries to force him to provide information for the courts that will smash the dock racketeers.

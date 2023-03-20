@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZT
 spotifyurl: https://open.spotify.com/episode/7bKqGDnjk3L1H66zd9hrUL
 title: "Andrei Rublev"
 releasedate: (France)
-rating: 8.1
+rating: "8.1"
 ---
 
 Andreiv Rublev charts the life of the great icon painter through a turbulent period of 15th Century Russian history, a period marked by endless fighting between rival Princes and by Tatar invasions.

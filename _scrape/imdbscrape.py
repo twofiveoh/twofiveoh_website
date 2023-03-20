@@ -67,9 +67,6 @@ with open(extrasloc, newline='') as extrasfile:
 for ep in list:
     print(ep["epindex"])
 
-    if (float(ep["epindex"]) < 209.0):
-        continue
-
     if ep["type"] == 'a' or (ep["type"] == 'b' and ep["imdbid"] != None and ep["imdbid"] != ''):
         movie = ia.get_movie(ep["imdbid"])
 
@@ -133,7 +130,7 @@ for ep in list:
     out += f'spotifyurl: {e.get("spotifyurl") or ""}\n'
     out += f'title: "{e["title"]}"\n'
     out += f'releasedate: {e["releasedate"]}\n'
-    out += f'rating: {e["rating"]}\n'
+    out += f'rating: "{e["rating"]}"\n'
     out += f'---\n\n'
     out += f'{e["plotoutline"]}'
     

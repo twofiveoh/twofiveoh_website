@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5Mz
 spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
 title: "Bicycle Thieves"
 releasedate: 1951
-rating: 8.3
+rating: "8.3"
 ---
 
 Antonio Ricci, an unemployed man in the depressed post-WWII economy of Italy, finally gets a job hanging up posters, but he needs a bicycle. But when his bicycle is stolen,, he and son walk the streets of Rome looking for it. Antonio finally manages to locate the thief, but with no proof he must abandon his cause. But he and his son know perfectly well that without a bike, Antonio won't be able to keep his job.

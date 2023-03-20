@@ -7,7 +7,7 @@ coverurl: https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2
 spotifyurl: https://open.spotify.com/episode/2uBiUGEA3Mk0ahLWmODUAa
 title: "Harry Potter and the Deathly Hallows: Part 2"
 releasedate: 2011
-rating: 8.1
+rating: "8.1"
 ---
 
 Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) continue their quest of finding and destroying Voldemort's (Ralph Fiennes') three remaining Horcruxes, the magical items responsible for his immortality. But as the mystical Deathly Hallows are uncovered, and Voldemort finds out about their mission, the biggest battle begins, and life as they know it will never be the same again.
