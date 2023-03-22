@@ -1,0 +1,31 @@
+---
+layout: base.njk
+---
+
+<div class="episode-viewer-wrapper">
+    <a class="ep-home-button" href="/">‹ back</a>
+    <div class="episode-viewer">
+        <div class="ep-contents">
+            <img class="ep-poster-image" onload="this.style.opacity=1" src="{{ coverurl }}" />
+            <div class="ep-text">
+                <span class="ep-index-no index-no">{{ tfoindex }}</span>
+                <span class="ep-title title">{{ title }}</span>
+                {%- if releasedate != null -%}
+                    <span class="date">{{ releasedate }}</span>
+                    {%- endif -%}
+                    {%- if rating != null -%}
+                    <span class="imdb-score">
+                      <img class="inline-svg" height="18px" width="18px" src="/img/star.svg">
+                      {{ rating }}
+                      <a href="https://www.imdb.com/title/tt{{ imdbid | prepend: '00' | slice: -7, 7 }}">
+                        <img class="inline-svg" height="18px" width="26px" src="/img/imdb.svg">
+                      </a>
+                    </span>
+                    {%- endif -%}
+                <span class="ep-description">{{ content }}</span>
+            </div>
+            </div>
+            <!--{# TODO: make the python script pull the spotify id instead of the url so we dont have to get clever here #}-->
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/{{ spotifyurl | split: '/' | last }}?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+</div>

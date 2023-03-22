@@ -529,6 +529,79 @@ body {
     }
 }
 
+.episode-viewer-wrapper {
+    width: 800px;
+    max-width: 100vw;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 15px;
+    color: var(--accent-bg);
+}
+
+.ep-home-button {  
+    font-weight: bold;
+    font-size: larger;
+    color: var(--accent-bg);
+    text-decoration: none;
+    padding-left: 15px;
+    transition: all 0.1s ease;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.ep-home-button:hover {
+    margin-top: -6px;
+    margin-bottom: 6px;
+}
+
+.episode-viewer {
+    width: 800px;
+    max-width: 100vw;
+    background-color: var(--bg);
+    padding: 15px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    transition: all 0.1s ease;
+}
+
+@media all and (max-width: 800px) {
+    .episode-viewer {
+        border-radius: 0px;
+    }
+}
+
+.ep-poster-image {
+    width: 202px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.ep-text {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    overflow: hidden;
+}
+
+.ep-contents {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.ep-index-no {
+    align-self: flex-end;
+}
+
+.ep-description p {
+    margin: 0;
+    overflow: hidden;
+}
 
 /* .aurora-outer {
     background: linear-gradient(45deg, #474747 0%, #ddd 49%, #333 82%);
