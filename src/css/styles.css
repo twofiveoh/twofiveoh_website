@@ -553,7 +553,6 @@ body {
     transition: all 0.1s ease;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-bottom: 6px;
     padding: 5px;
     background-color: var(--dark);
     height: min-content;
@@ -562,6 +561,7 @@ body {
 
 .text-button:hover {
     margin-top: -6px;
+    margin-bottom: 6px;
 }
 
 .episode-viewer {
@@ -578,6 +578,11 @@ body {
     .episode-viewer {
         border-radius: 0px;
     }
+}
+
+.episode-viewer iframe {
+    background-color: var(--dark);
+    border-radius: 12px;
 }
 
 .ep-poster-image {
