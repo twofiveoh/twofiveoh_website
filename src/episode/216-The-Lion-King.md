@@ -4,7 +4,7 @@ epindex: "216"
 tfoindex: 35
 imdbid: 110357
 coverurl: https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "The Lion King"
 releasedate: 1994
 rating: "8.5"

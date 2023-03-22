@@ -4,7 +4,7 @@ epindex: "249"
 tfoindex: 2
 imdbid: 68646
 coverurl: https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR2,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "The Godfather"
 releasedate: 1972
 rating: "9.2"

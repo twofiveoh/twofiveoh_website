@@ -4,7 +4,7 @@ epindex: "210"
 tfoindex: 41
 imdbid: 54215
 coverurl: https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Psycho"
 releasedate: 1960
 rating: "8.5"

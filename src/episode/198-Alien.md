@@ -4,7 +4,7 @@ epindex: "198"
 tfoindex: 53
 imdbid: 78748
 coverurl: https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Alien"
 releasedate: 1979
 rating: "8.5"

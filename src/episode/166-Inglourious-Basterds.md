@@ -4,7 +4,7 @@ epindex: "166"
 tfoindex: 85
 imdbid: 361748
 coverurl: https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Inglourious Basterds"
 releasedate: 2009
 rating: "8.3"

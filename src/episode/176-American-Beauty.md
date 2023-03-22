@@ -4,7 +4,7 @@ epindex: "176"
 tfoindex: 75
 imdbid: 169547
 coverurl: https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "American Beauty"
 releasedate: 2000
 rating: "8.4"

@@ -4,7 +4,7 @@ epindex: "209"
 tfoindex: 42
 imdbid: 172495
 coverurl: https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Gladiator"
 releasedate: 2000
 rating: "8.5"

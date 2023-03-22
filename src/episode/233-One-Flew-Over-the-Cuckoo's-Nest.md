@@ -4,7 +4,7 @@ epindex: "233"
 tfoindex: 18
 imdbid: 73486
 coverurl: https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "One Flew Over the Cuckoo's Nest"
 releasedate: 1976
 rating: "8.7"

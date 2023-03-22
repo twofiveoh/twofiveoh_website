@@ -4,7 +4,7 @@ epindex: "230"
 tfoindex: 21
 imdbid: 317248
 coverurl: https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "City of God"
 releasedate: 2003
 rating: "8.6"

@@ -4,7 +4,7 @@ epindex: "175"
 tfoindex: 76
 imdbid: 2380307
 coverurl: https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SY300_CR2,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Coco"
 releasedate: 2017
 rating: "8.4"

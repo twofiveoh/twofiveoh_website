@@ -4,7 +4,7 @@ epindex: "245"
 tfoindex: 6
 imdbid: 108052
 coverurl: https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Schindler's List"
 releasedate: 1994
 rating: "9.0"

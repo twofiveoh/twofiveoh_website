@@ -4,7 +4,7 @@ epindex: "144"
 tfoindex: 107
 imdbid: 70735
 coverurl: https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "The Sting"
 releasedate: 1974
 rating: "8.3"

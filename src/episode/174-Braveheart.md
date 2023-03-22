@@ -4,7 +4,7 @@ epindex: "174"
 tfoindex: 77
 imdbid: 112573
 coverurl: https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Braveheart"
 releasedate: 1995
 rating: "8.4"

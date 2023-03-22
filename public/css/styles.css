@@ -288,7 +288,6 @@ body {
 }
 
 .poster-image {
-    opacity: 0;
     transition: all 0.15s ease;
     width: var(--poster-width);
     height: var(--poster-height);
@@ -612,6 +611,17 @@ body {
 .ep-description p {
     margin: 0;
     overflow: hidden;
+}
+
+.spotify-placeholder {
+    background-color: var(--dark);
+    border-radius: 12px;
+    height: 152px;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* .aurora-outer {

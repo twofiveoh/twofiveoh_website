@@ -4,7 +4,7 @@ epindex: "184"
 tfoindex: 67
 imdbid: 119698
 coverurl: https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Princess Mononoke"
 releasedate: 2001
 rating: "8.3"

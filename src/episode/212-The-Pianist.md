@@ -4,7 +4,7 @@ epindex: "212"
 tfoindex: 39
 imdbid: 253474
 coverurl: https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR4,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "The Pianist"
 releasedate: 2003
 rating: "8.5"

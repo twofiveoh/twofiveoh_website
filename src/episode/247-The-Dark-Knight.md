@@ -4,7 +4,7 @@ epindex: "247"
 tfoindex: 4
 imdbid: 468569
 coverurl: https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "The Dark Knight"
 releasedate: 2008
 rating: "9.0"

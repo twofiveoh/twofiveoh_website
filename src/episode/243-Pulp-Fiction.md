@@ -4,7 +4,7 @@ epindex: "243"
 tfoindex: 8
 imdbid: 110912
 coverurl: https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR1,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Pulp Fiction"
 releasedate: 1994
 rating: "8.9"

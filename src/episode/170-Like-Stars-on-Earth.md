@@ -4,7 +4,7 @@ epindex: "170"
 tfoindex: 81
 imdbid: 986264
 coverurl: https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR2,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Like Stars on Earth"
 releasedate: 2007
 rating: "8.3"

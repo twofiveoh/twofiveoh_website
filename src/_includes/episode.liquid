@@ -26,6 +26,10 @@ layout: base.njk
             </div>
             </div>
             <!--{# TODO: make the python script pull the spotify id instead of the url so we dont have to get clever here #}-->
+        {%- if spotifyurl != null -%}
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/{{ spotifyurl | split: '/' | last }}?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        {%- else -%}
+        <div class="spotify-placeholder"><span>episode coming soon</span></div>
+        {%- endif -%}
     </div>
 </div>

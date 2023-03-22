@@ -4,7 +4,7 @@ epindex: "224"
 tfoindex: 27
 imdbid: 120815
 coverurl: https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Saving Private Ryan"
 releasedate: 1998
 rating: "8.6"

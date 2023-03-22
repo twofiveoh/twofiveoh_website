@@ -4,7 +4,7 @@ epindex: "238"
 tfoindex: 13
 imdbid: 1375666
 coverurl: https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Inception"
 releasedate: 2010
 rating: "8.8"

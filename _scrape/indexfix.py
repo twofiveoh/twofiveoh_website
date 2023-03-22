@@ -8,8 +8,7 @@ for filename in os.listdir(directory):
     if (filename.endswith('.md') and os.path.isfile(fullfilename)):
         with open(fullfilename, 'r+') as file: 
             contents = file.read()
-            contents = contents.replace('epindex: ', 'epindex: "')
-            contents = contents.replace('\ntfoindex', '"\ntfoindex')
+            contents = contents.replace('https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM', '')
             file.close()
 
         with open(fullfilename, 'w') as file:

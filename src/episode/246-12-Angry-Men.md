@@ -4,7 +4,7 @@ epindex: "246"
 tfoindex: 5
 imdbid: 50083
 coverurl: https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "12 Angry Men"
 releasedate: 1957
 rating: "9.0"

@@ -33,7 +33,11 @@ layout: base.njk
   <div class="episode-container">
     {%- for ep in collections.episodesorted -%}
     <div class="poster">
-      <img class="poster-image" onload="this.style.opacity=1" src="{{ ep.data.coverurl }}" />
+      <img class="poster-image" 
+      {%- if ep.data.spotifyurl == null -%}
+      style="filter: grayscale(85%); opacity: 0.5;"
+      {%- endif -%}
+      onload="this.style.opacity=1" src="{{ ep.data.coverurl }}" />
       <div class="poster-contents">
         <div class="poster-text">
           <span class="index-no">{{ ep.data.tfoindex }}</span></br>
@@ -57,10 +61,12 @@ layout: base.njk
             <img class="inline-svg" src="/img/info.svg">
             <span>More</span>
           </a>
+          {%- if ep.data.spotifyurl != null -%}
           <a href="{{ ep.data.spotifyurl }}" class="poster-button listen-button">
             <img class="inline-svg" src="/img/spotify.svg">
             <span>Listen</span>
           </a>
+          {%- endif -%}
         </div>
       </div>
     </div>

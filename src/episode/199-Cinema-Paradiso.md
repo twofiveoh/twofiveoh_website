@@ -4,7 +4,7 @@ epindex: "199"
 tfoindex: 52
 imdbid: 95765
 coverurl: https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Cinema Paradiso"
 releasedate: 1989
 rating: "8.5"

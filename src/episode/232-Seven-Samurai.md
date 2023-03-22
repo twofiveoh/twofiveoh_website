@@ -4,7 +4,7 @@ epindex: "232"
 tfoindex: 19
 imdbid: 47478
 coverurl: https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SY300_CR3,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "Seven Samurai"
 releasedate: 1954
 rating: "8.6"

@@ -4,7 +4,7 @@ epindex: "250"
 tfoindex: 1
 imdbid: 111161
 coverurl: https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: 
 title: "The Shawshank Redemption"
 releasedate: 1995
 rating: "9.3"
