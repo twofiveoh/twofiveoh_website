@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
   // sort episodes by index
   eleventyConfig.addCollection('episodesorted', function (collectionApi) {
     return collectionApi.getFilteredByTag("episode")
-      .sort((a, b) => b.data.epindex - a.data.epindex).reverse();
+      .sort((a, b) => parseFloat(b.data.epindex) - parseFloat(a.data.epindex)).reverse();
   });
 
   // minify all html files

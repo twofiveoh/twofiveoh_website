@@ -123,7 +123,7 @@ for ep in list:
     fname = f'../src/episodes/{e["epindex"]}-{re.sub(fnamesanitise, "_", e["title"].replace(" ","-"))}.md'
 
     out = f'---\ntags: episode\n'
-    out += f'epindex: {e["epindex"]}\n'
+    out += f'epindex: "{e["epindex"]}"\n'
     out += f'tfoindex: {e["tfoindex"]}\n'
     out += f'imdbid: {e["imdbid"]}\n'
     out += f'coverurl: {e["coverurl"]}\n'
