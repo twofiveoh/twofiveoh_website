@@ -113,7 +113,7 @@ for ep in list:
             "imdbid": "",
             "spotifyurl": "https://open.spotify.com/episode/" + ep["spotifyid"] if ep["spotifyid"] else "https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM",
             # TODO: no fr this actually needs to get fixed
-            "coverurl": extras.get(ep.get("listindex")).get("coverurl") or "/img/missing.png/",
+            "coverurl": extras.get(ep.get("listindex")).get("coverurl") or "/img/missing.png",
             "title": extras[ep["listindex"]]["title"],
             "releasedate": extras[ep["listindex"]]["releasedate"],
             "rating": extras[ep["listindex"]]["rating"],
