@@ -213,8 +213,8 @@ body {
 
 .header {
     position: fixed;
-    left: 25px;
-    top: 25px;
+    margin-top: 25px;
+    margin-left: 25px;
     z-index: 3;
     display: flex;
     flex-direction: row;
@@ -542,7 +542,9 @@ body {
     color: var(--accent-bg);
 }
 
-.ep-home-button {  
+.text-button {  
+    pointer-events: all;
+    z-index: 3;
     font-weight: bold;
     font-size: larger;
     color: var(--accent-bg);
@@ -551,11 +553,15 @@ body {
     transition: all 0.1s ease;
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-bottom: 6px;
+    padding: 5px;
+    background-color: var(--dark);
+    height: min-content;
+    border-radius: 5px;
 }
 
-.ep-home-button:hover {
+.text-button:hover {
     margin-top: -6px;
-    margin-bottom: 6px;
 }
 
 .episode-viewer {
