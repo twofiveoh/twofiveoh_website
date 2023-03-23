@@ -1,6 +1,8 @@
 # twofiveoh_website
 new version of the twofiveoh website written using 11ty
 
+hosted at [twofiveoh.com](https://twofiveoh.com)
+
 # TODO:
 - [ ] fix square episode posters, especially in the anniversary episodes
 - [ ] fix the ugly fucking menu icon
