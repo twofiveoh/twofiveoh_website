@@ -7,7 +7,13 @@
     <meta name="description"
         content="Douglas and Jonathan take on the top Two Hundred and Fifty films, according to the questionable public ratings of iMDB" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/css/styles.css"/>
+    {# <link rel="stylesheet" href="/css/styles.css"/> #}
+    {% set css %}
+    {% include "styles.css" %}
+    {% endset %}
+    <style>
+      {{css | cssmin | safe}}
+    </style>
     <title>TwoFiveOh</title>
     <meta name="theme-color" content="#333333" />
   </head>

@@ -1,5 +1,6 @@
 const htmlmin = require("html-minifier");
 const rimraf = require("rimraf");
+const cleancss = require("clean-css");
 
 module.exports = function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
@@ -25,6 +26,11 @@ module.exports = function (eleventyConfig) {
       return minified;
     }
     return content;
+  });
+  
+  // clean and inline all css files
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new cleancss({}).minify(code).styles;
   });
 
   return {

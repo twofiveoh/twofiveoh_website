@@ -209,6 +209,7 @@ body {
     background-color: var(--dark);
     font-family: var(--sans-font);
     user-select: none;
+    color: var(#ddd);
 }
 
 .header {
@@ -247,6 +248,7 @@ body {
 .logo {
     height: var(--logo-size);
     width: var(--logo-size);
+    background-color: #ccc;
     overflow: hidden;
     margin: -6px;
     display: flex;
@@ -263,10 +265,6 @@ body {
     height: calc(var(--logo-size) + 6px);
     width: calc(var(--logo-size) + 6px);
     border-radius: 6px;
-}
-
-.logo:hover {
-    top: 20px;
 }
 
 .episode-container {
