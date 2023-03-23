@@ -7,3 +7,5 @@ _scrape/env/[Ll]ib64
 _scrape/env/[Bb]in
 _scrape/env/[Ss]cripts
 _scrape/env/pyvenv.cfg
+
+public/*
