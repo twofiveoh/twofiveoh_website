@@ -1,11 +1,10 @@
 # dependencies installed by npm
 
 node_modules
+public
 _scrape/env/[Ii]nclude
 _scrape/env/[Ll]ib
 _scrape/env/[Ll]ib64
 _scrape/env/[Bb]in
 _scrape/env/[Ss]cripts
 _scrape/env/pyvenv.cfg
-
-public/*
