@@ -322,7 +322,7 @@ body {
     transition: all 0.15s ease;
 }
 
-poster-text {
+.poster-text {
     max-height: 210px;
     overflow: hidden;
 }
