@@ -322,6 +322,11 @@ body {
     transition: all 0.15s ease;
 }
 
+poster-text {
+    max-height: 210px;
+    overflow: hidden;
+}
+
 .poster-text span {
     display: inline-block;
     margin-bottom: 4px;
