@@ -4,7 +4,7 @@ epindex: "140"
 tfoindex: 111
 imdbid: 1832382
 coverurl: https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/0mVwQU7xDQMciRSRV5hHfc?si=88383ae90e214350
 title: "A Separation"
 releasedate: 2012
 rating: "8.3"
