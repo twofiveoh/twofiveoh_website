@@ -4,7 +4,7 @@ epindex: "143"
 tfoindex: 108
 imdbid: 17136
 coverurl: https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/56L6zJQAgDCcrg2tGf4WV2?si=e4ce6a37910f4701
 title: "Metropolis"
 releasedate: 1927
 rating: "8.3"
