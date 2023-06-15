@@ -4,7 +4,7 @@ epindex: "147"
 tfoindex: 104
 imdbid: 75314
 coverurl: https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/0sJjQVAHUQFISJHW61pZMt?si=5f46fb57b11b4054
 title: "Taxi Driver"
 releasedate: 1976
 rating: "8.2"
