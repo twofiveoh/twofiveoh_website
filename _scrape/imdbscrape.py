@@ -65,6 +65,9 @@ with open(extrasloc, newline='') as extrasfile:
 # the way im reading in ep is a little weird and it should probably some flavour
 # of known class so that the linter can actually recognise it
 for ep in list:
+    # if (float(ep["epindex"]) < 68 or float(ep["epindex"]) > 68):
+    #     continue
+
     print(ep["epindex"])
 
     if ep["type"] == 'a' or (ep["type"] == 'b' and ep["imdbid"] != None and ep["imdbid"] != ''):
@@ -120,7 +123,7 @@ for ep in list:
             "plotoutline": extras[ep["listindex"]]["plotoutline"]
         }
 
-    fname = f'../src/episodes/{e["epindex"]}-{re.sub(fnamesanitise, "_", e["title"].replace(" ","-"))}.md'
+    fname = f'../src/episode/{e["epindex"]}-{re.sub(fnamesanitise, "_", e["title"].replace(" ","-"))}.md'
 
     out = f'---\ntags: episode\n'
     out += f'epindex: "{e["epindex"]}"\n'
