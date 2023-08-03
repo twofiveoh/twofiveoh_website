@@ -4,7 +4,7 @@ epindex: "153"
 tfoindex: 98
 imdbid: 208092
 coverurl: https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR1,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/0Z8VSNoMMBOFFzUkVuKEZv?si=feaeabd0dbe04044
 title: "Snatch"
 releasedate: 2000
 rating: "8.2"
