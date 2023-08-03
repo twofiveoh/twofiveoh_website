@@ -520,10 +520,6 @@ body {
         flex: 1 1 auto;
     }
 
-    .description p {
-        display: none;
-    }
-
     @media all and (min-width: 400px) {
         .poster, .poster:hover .poster-image, .poster-image, .poster-contents {
             border-radius: 15px;
