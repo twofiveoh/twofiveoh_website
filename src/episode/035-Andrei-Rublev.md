@@ -6,7 +6,7 @@ imdbid: 60107
 coverurl: https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZTgwMjEzMzE5MTE@._V1_SY300_CR4,0,202,300_.jpg
 spotifyurl: https://open.spotify.com/episode/7bKqGDnjk3L1H66zd9hrUL
 title: "Andrei Rublev"
-releasedate: (France)
+releasedate: 1966
 rating: "8.1"
 ---
 
