@@ -4,7 +4,7 @@ epindex: "156"
 tfoindex: 95
 imdbid: 93058
 coverurl: https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/0mwgtIN6rRl8GXqfgeHcRx?si=e84ec33abb95487c
 title: "Full Metal Jacket"
 releasedate: 1987
 rating: "8.3"

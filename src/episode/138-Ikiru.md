@@ -3,7 +3,7 @@ tags: episode
 epindex: "138"
 tfoindex: 113
 imdbid: 44741
-coverurl: https://m.media-amazon.com/images/M/MV5BNDBiNTc2YTUtNzMzZi00ZjZhLWEwMGMtZjEzMzAyYzk2MjYyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX202_CR0,0,202,300_.jpg
+coverurl: https://m.media-amazon.com/images/M/MV5BYjg1MDZjYTAtM2RmYi00NzY4LThiYmQtNzI3OWUzMTllZjY2XkEyXkFqcGdeQXVyNzYxODE3NTQ@._V1_SX202_CR0,0,202,300_.jpg
 spotifyurl: https://open.spotify.com/episode/2TvixeGBSXzPQN3EI8fgBU
 title: "Ikiru"
 releasedate: 1952
