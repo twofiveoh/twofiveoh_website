@@ -4,7 +4,7 @@ epindex: "148"
 tfoindex: 103
 imdbid: 45152
 coverurl: https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY300_CR1,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/episode/4IEK94WKDoVrwd0fGyQvel?si=163a2cc46d7b442d
+spotifyurl: https://open.spotify.com/episode/4IEK94WKDoVrwd0fGyQvel
 title: "Singin' in the Rain"
 releasedate: 1952
 rating: "8.3"

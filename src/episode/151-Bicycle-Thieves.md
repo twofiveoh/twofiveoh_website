@@ -4,7 +4,7 @@ epindex: "151"
 tfoindex: 100
 imdbid: 40522
 coverurl: https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY300_CR1,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/episode/0pBgcB7kBIHsgoe6VIzmfR?si=b82832cc4b064b7f
+spotifyurl: https://open.spotify.com/episode/0pBgcB7kBIHsgoe6VIzmfR
 title: "Bicycle Thieves"
 releasedate: 1951
 rating: "8.3"

@@ -4,7 +4,7 @@ epindex: "149"
 tfoindex: 102
 imdbid: 86250
 coverurl: https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/episode/2pwjiUgcYbFPZ2shDCumT1?si=c365905ade754607
+spotifyurl: https://open.spotify.com/episode/2pwjiUgcYbFPZ2shDCumT1
 title: "Scarface"
 releasedate: 1984
 rating: "8.3"
