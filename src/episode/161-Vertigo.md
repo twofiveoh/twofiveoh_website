@@ -4,7 +4,7 @@ epindex: "161"
 tfoindex: 90
 imdbid: 52357
 coverurl: https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: https://open.spotify.com/show/39lr9bBUcXgZRXsxTw1axM
+spotifyurl: https://open.spotify.com/episode/6eJs2fLrEiYsfi9YdJkxgy
 title: "Vertigo"
 releasedate: 1959
 rating: "8.3"
