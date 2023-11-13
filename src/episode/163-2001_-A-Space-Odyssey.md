@@ -4,7 +4,7 @@ epindex: "163"
 tfoindex: 88
 imdbid: 62622
 coverurl: https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/3uaBp5UE9OrE889Ud49x2C
 title: "2001: A Space Odyssey"
 releasedate: 1968
 rating: "8.3"
