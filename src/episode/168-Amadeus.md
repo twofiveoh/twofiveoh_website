@@ -4,7 +4,7 @@ epindex: "168"
 tfoindex: 83
 imdbid: 86879
 coverurl: https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/5E8m2WX7AivUnRaNqaS5Z0
 title: "Amadeus"
 releasedate: 1985
 rating: "8.4"
