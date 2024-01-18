@@ -4,7 +4,7 @@ epindex: "170"
 tfoindex: 81
 imdbid: 986264
 coverurl: https://a.ltrbxd.com/resized/film-poster/4/8/0/0/4/48004-taare-zameen-par-0-230-0-345-crop.jpg?v=21e4e3906b
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/6LuJqqcJQd3sSOaXWBCQEc
 title: "Like Stars on Earth"
 releasedate: 2007
 rating: "8.3"

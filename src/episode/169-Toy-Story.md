@@ -4,7 +4,7 @@ epindex: "169"
 tfoindex: 82
 imdbid: 114709
 coverurl: https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/2IdK2bX6NoWN3s5e46f3HA
 title: "Toy Story"
 releasedate: 1995
 rating: "8.3"
