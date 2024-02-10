@@ -4,7 +4,7 @@ epindex: "173"
 tfoindex: 78
 imdbid: 82096
 coverurl: https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/6BQXQAB70oOIuAIBC0WanZ
 title: "Das Boot"
 releasedate: 1982
 rating: "8.4"
