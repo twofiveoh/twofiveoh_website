@@ -4,7 +4,7 @@ epindex: "177"
 tfoindex: 74
 imdbid: 5311514
 coverurl: https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/1hTGn0kka5rv3dkjVX6EFs
 title: "Your Name."
 releasedate: 2016
 rating: "8.4"
