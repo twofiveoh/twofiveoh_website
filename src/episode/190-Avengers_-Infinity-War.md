@@ -4,7 +4,7 @@ epindex: "190"
 tfoindex: 61
 imdbid: 4154756
 coverurl: https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/09x0UU3unNcb4CyofD9oIU
 title: "Avengers: Infinity War"
 releasedate: 2018
 rating: "8.4"
