@@ -565,7 +565,7 @@ body {
 }
 
 .text-button, .header-button, .logo {
-    box-shadow: 10px 10px 1px var(--darktrans);
+    box-shadow: 6px 6px 1px var(--darktrans);
 }
 
 .episode-viewer {
