@@ -190,8 +190,9 @@ template {
 
     /* Default (light) theme */
     --bg: #474747;
-    --accent-bg: #ddd;
+    --accent-bg: #cacaca;
     --dark: #333;
+    --darktrans: rgba(51, 51, 51, 0.8);
 
     --primary: #007bff;
     --primary-hover: #0069d9;
@@ -250,7 +251,7 @@ body {
     width: var(--logo-size);
     background-color: #ccc;
     overflow: hidden;
-    margin: -6px;
+    margin: -6px 2px -6px -6px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -545,21 +546,26 @@ body {
     z-index: 3;
     font-weight: bold;
     font-size: larger;
-    color: var(--accent-bg);
+    color: var(--dark);
     text-decoration: none;
-    padding-left: 15px;
     transition: all 0.1s ease;
+    text-transform: uppercase;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 5px;
-    background-color: var(--dark);
+    padding: 5px 8px;
+    background-color: var(--accent-bg);
     height: min-content;
-    border-radius: 5px;
+    border-radius: 10px;
+    border: var(--dark) solid 5px;
 }
 
 .text-button:hover {
     margin-top: -6px;
     margin-bottom: 6px;
+}
+
+.text-button, .header-button, .logo {
+    box-shadow: 10px 10px 1px var(--darktrans);
 }
 
 .episode-viewer {
@@ -622,33 +628,3 @@ body {
     justify-content: center;
     align-items: center;
 }
-
-/* .aurora-outer {
-    background: linear-gradient(45deg, #474747 0%, #ddd 49%, #333 82%);
-    background-size: 200%;
-    animation: aurora 5s infinite;
-}
-
-.aurora-inner {
-    background: radial-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15));
-    background-size: 200%;
-    animation: aurora 3s infinite;
-}
-
-@keyframes aurora {
-    0% {
-        background-position: left top;
-    }
-    25% {
-        background-position: right top;
-    }
-    50% {
-        background-position: right bottom;
-    }
-    75% {
-        background-position: left bottom;
-    }
-    100% {
-        background-position: left top;
-    }
-} */
