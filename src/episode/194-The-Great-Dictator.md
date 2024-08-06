@@ -4,7 +4,7 @@ epindex: "194"
 tfoindex: 57
 imdbid: 32553
 coverurl: https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/71fmBFBbHF2ZMhD1WdqMLA
 title: "The Great Dictator"
 releasedate: 1940
 rating: "8.4"
