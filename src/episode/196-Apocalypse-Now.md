@@ -4,7 +4,7 @@ epindex: "196"
 tfoindex: 55
 imdbid: 78788
 coverurl: https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/141tDKiznweuRqpUSFYcC2
 title: "Apocalypse Now"
 releasedate: 1979
 rating: "8.5"

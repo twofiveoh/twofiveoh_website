@@ -4,7 +4,7 @@ epindex: "195"
 tfoindex: 56
 imdbid: 209144
 coverurl: https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/2yABJydcVqUoynfVYXMy3T
 title: "Memento"
 releasedate: 2001
 rating: "8.4"

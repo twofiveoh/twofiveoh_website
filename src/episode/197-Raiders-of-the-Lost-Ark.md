@@ -4,7 +4,7 @@ epindex: "197"
 tfoindex: 54
 imdbid: 82971
 coverurl: https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/6e4TflMER2zO2bpmwzL8SF
 title: "Raiders of the Lost Ark"
 releasedate: 1981
 rating: "8.4"
