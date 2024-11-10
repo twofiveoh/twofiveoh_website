@@ -4,7 +4,7 @@ epindex: "204"
 tfoindex: 47
 imdbid: 64116
 coverurl: https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/0WlHylCY3UTO5msLJa0RyR
 title: "Once Upon a Time in the West"
 releasedate: 1970
 rating: "8.5"
