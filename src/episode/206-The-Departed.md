@@ -4,7 +4,7 @@ epindex: "206"
 tfoindex: 45
 imdbid: 407887
 coverurl: https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/6L1LR65SPZcxzTH3X9sALz
 title: "The Departed"
 releasedate: 2006
 rating: "8.5"
