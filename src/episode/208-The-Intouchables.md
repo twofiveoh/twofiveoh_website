@@ -4,7 +4,7 @@ epindex: "208"
 tfoindex: 43
 imdbid: 1675434
 coverurl: https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/3pFJXEGKFfivJgvr94KT6W
 title: "The Intouchables"
 releasedate: 2012
 rating: "8.5"
