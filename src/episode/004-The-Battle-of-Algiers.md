@@ -3,7 +3,7 @@ tags: episode
 epindex: "004"
 tfoindex: 247
 imdbid: 58946
-coverurl: https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_SX202_CR0,0,202,300_.jpg
 spotifyurl: https://open.spotify.com/episode/4JX5uK4WQEl2Arnirmu56R
 title: "The Battle of Algiers"
 releasedate: 1966

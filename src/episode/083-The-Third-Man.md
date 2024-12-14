@@ -3,7 +3,7 @@ tags: episode
 epindex: "083"
 tfoindex: 168
 imdbid: 41959
-coverurl: https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: https://m.media-amazon.com/images/M/MV5BNTAwZjAwZDUtNDc1Yi00OGY3LTgzMjktYjIyMjQzOWE3MmVhXkEyXkFqcGc@._V1_SX202_CR0,0,202,300_.jpg
 spotifyurl: https://open.spotify.com/episode/1Rrb98Og8UvZB4DzzYGIiU
 title: "The Third Man"
 releasedate: 1950

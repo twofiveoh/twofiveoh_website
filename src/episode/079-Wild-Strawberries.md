@@ -3,7 +3,7 @@ tags: episode
 epindex: "079"
 tfoindex: 172
 imdbid: 50986
-coverurl: https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_SX202_CR0,0,202,300_.jpg
 spotifyurl: https://open.spotify.com/episode/0sr5CMtSyXyQ2wwGZwIaPg
 title: "Wild Strawberries"
 releasedate: 1957
