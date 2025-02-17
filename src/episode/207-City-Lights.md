@@ -4,7 +4,7 @@ epindex: "207"
 tfoindex: 44
 imdbid: 21749
 coverurl: https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/0S1onrJZ5qYvbmUGk3vsrr
 title: "City Lights"
 releasedate: 1931
 rating: "8.5"
