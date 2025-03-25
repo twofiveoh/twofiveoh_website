@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/twofiveoh/twofiveoh_website#readme",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy": "^3.0.0",
     "clean-css": "^5.3.2",
     "html-minifier": "^4.0.0",
     "rimraf": "^4.4.0"
