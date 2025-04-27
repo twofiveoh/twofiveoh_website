@@ -4,7 +4,7 @@ epindex: "219"
 tfoindex: 32
 imdbid: 110413
 coverurl: https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/21NasBUxj5maN8bVAVGZSA
 title: "Léon: The Professional"
 releasedate: 1995
 rating: "8.5"
