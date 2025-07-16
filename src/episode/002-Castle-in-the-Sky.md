@@ -3,7 +3,7 @@ tags: episode
 epindex: "002"
 tfoindex: 249
 imdbid: 92067
-coverurl: https://m.media-amazon.com/images/M/MV5BNDFhZmY2NTgtMzljYy00MTlhLTgyMjItNTEwZWJkYThhYzkyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: /img/002.jpg
 spotifyurl: https://open.spotify.com/episode/7DGKmXOXGaHuloQaRbiVvl
 title: "Castle in the Sky"
 releasedate: 1992

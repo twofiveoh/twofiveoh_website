@@ -17,9 +17,9 @@ layout: base.njk
                     <span class="imdb-score">
                       <img class="inline-svg" height="18px" width="18px" src="/img/star.svg">
                       {{ rating }}
-                      <a href="https://www.imdb.com/title/tt{{ imdbid | prepend: '00' | slice: -7, 7 }}">
+                      <!-- <a href="https://www.imdb.com/title/tt{{ imdbid | prepend: '00' | slice: -7, 7 }}">
                         <img class="inline-svg" height="18px" width="26px" src="/img/imdb.svg">
-                      </a>
+                      </a> -->
                     </span>
                     {%- endif -%}
                 <span class="ep-description">{{ content }}</span>
