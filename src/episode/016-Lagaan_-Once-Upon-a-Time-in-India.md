@@ -3,7 +3,7 @@ tags: episode
 epindex: "016"
 tfoindex: 235
 imdbid: 169102
-coverurl: https://m.media-amazon.com/images/M/MV5BNmYxZGJlNmQtMWY3OS00Njc0LThjODgtOWEwMWU4NTUxMDExXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SY300_CR2,0,202,300_.jpg
+coverurl: /img/covers/016.webp
 spotifyurl: https://open.spotify.com/episode/5ZQVnCQty8f6WC3H1K1ExM
 title: "Lagaan: Once Upon a Time in India"
 releasedate: 2001

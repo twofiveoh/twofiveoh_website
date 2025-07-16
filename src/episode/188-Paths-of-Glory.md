@@ -3,7 +3,7 @@ tags: episode
 epindex: "188"
 tfoindex: 63
 imdbid: 50825
-coverurl: https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: /img/covers/188.webp
 spotifyurl: https://open.spotify.com/episode/2zkSfjuQ6l1wDp1nSVurko
 title: "Paths of Glory"
 releasedate: 1958

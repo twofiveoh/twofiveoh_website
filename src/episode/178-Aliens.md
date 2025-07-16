@@ -3,7 +3,7 @@ tags: episode
 epindex: "178"
 tfoindex: 73
 imdbid: 90605
-coverurl: https://m.media-amazon.com/images/M/MV5BZTM1Nzk5ZTItN2ZkNi00MDRjLWIwYWUtOWY4ZjZmZjkyM2I0XkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: /img/covers/178.webp
 spotifyurl: https://open.spotify.com/episode/5odq7PzvjbeLIVMiqPLAM7
 title: "Aliens"
 releasedate: 1986

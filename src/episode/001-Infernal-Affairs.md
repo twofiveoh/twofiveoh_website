@@ -3,7 +3,7 @@ tags: episode
 epindex: "001"
 tfoindex: 250
 imdbid: 338564
-coverurl: /img/001.jpg
+coverurl: /img/covers/001.jpg
 spotifyurl: https://open.spotify.com/episode/20n428n3BSZo9Mye0ERXfh
 title: "Infernal Affairs"
 releasedate: 2004

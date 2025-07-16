@@ -3,7 +3,7 @@ tags: episode
 epindex: "050"
 tfoindex: 201
 imdbid: 758758
-coverurl: https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY300_CR0,0,202,300_.jpg
+coverurl: /img/covers/050.webp
 spotifyurl: https://open.spotify.com/episode/4V9oqthcmAxVp4q1powrGs
 title: "Into the Wild"
 releasedate: 2007

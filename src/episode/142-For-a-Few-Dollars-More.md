@@ -3,7 +3,7 @@ tags: episode
 epindex: "142"
 tfoindex: 109
 imdbid: 59578
-coverurl: https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX202_CR0,0,202,300_.jpg
+coverurl: /img/covers/142.webp
 spotifyurl: https://open.spotify.com/episode/5iWbvafpt8ZkPBSjjEX4gN
 title: "For a Few Dollars More"
 releasedate: 1965

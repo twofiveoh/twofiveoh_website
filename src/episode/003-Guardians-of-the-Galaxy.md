@@ -3,7 +3,7 @@ tags: episode
 epindex: "003"
 tfoindex: 248
 imdbid: 2015381
-coverurl: /img/003.jpg
+coverurl: /img/covers/003.jpg
 spotifyurl: https://open.spotify.com/episode/6FSZJ8wbyRQndYo9SGn2k1
 title: "Guardians of the Galaxy"
 releasedate: 2014

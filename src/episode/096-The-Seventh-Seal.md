@@ -3,7 +3,7 @@ tags: episode
 epindex: "096"
 tfoindex: 155
 imdbid: 50976
-coverurl: https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SY300_CR1,0,202,300_.jpg
+coverurl: /img/covers/096.webp
 spotifyurl: https://open.spotify.com/episode/7AMq3ZLsLIyiizKQmjeifK
 title: "The Seventh Seal"
 releasedate: 1957
