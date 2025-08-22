@@ -4,7 +4,7 @@ epindex: "234"
 tfoindex: 17
 imdbid: 99685
 coverurl: https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX202_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/7jWBr2NmyKsnr68Gdexqy2
 title: "Goodfellas"
 releasedate: 1990
 rating: "8.7"
