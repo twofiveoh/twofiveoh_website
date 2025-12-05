@@ -4,7 +4,7 @@ epindex: "239"
 tfoindex: 12
 imdbid: 109830
 coverurl: https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY300_CR1,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/4mAxOazseFlqyskHUgOGOw
 title: "Forrest Gump"
 releasedate: 1994
 rating: "8.8"

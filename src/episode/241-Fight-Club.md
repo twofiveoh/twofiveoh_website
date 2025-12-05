@@ -4,7 +4,7 @@ epindex: "241"
 tfoindex: 10
 imdbid: 137523
 coverurl: https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SY300_CR0,0,202,300_.jpg
-spotifyurl: 
+spotifyurl: https://open.spotify.com/episode/6Eg43pLIoVRiLreA7kg0EB
 title: "Fight Club"
 releasedate: 1999
 rating: "8.8"
